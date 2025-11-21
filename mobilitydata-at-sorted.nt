@@ -1,0 +1,1016 @@
+<http://example.org/period> <http://www.w3.org/ns/dcat#endDate> "2025-11-14CET00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/period> <http://www.w3.org/ns/dcat#endDate> "2025-12-13CET00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/period> <http://www.w3.org/ns/dcat#endDate> "2026-01-01CET00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/period> <http://www.w3.org/ns/dcat#endDate> "2026-01-27CET00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/period> <http://www.w3.org/ns/dcat#endDate> "2026-01-31CET00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/period> <http://www.w3.org/ns/dcat#endDate> "2026-02-09CET00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/period> <http://www.w3.org/ns/dcat#endDate> "2026-02-18CET00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/period> <http://www.w3.org/ns/dcat#endDate> "2026-03-11CET00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/period> <http://www.w3.org/ns/dcat#endDate> "2026-04-16CEST00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/period> <http://www.w3.org/ns/dcat#endDate> "2026-04-22CEST00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/period> <http://www.w3.org/ns/dcat#endDate> "2026-06-25CEST00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/period> <http://www.w3.org/ns/dcat#endDate> "2026-06-30CEST00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/period> <http://www.w3.org/ns/dcat#endDate> "2026-09-29CEST00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/period> <http://www.w3.org/ns/dcat#startDate> "2024-01-01CET00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/period> <http://www.w3.org/ns/dcat#startDate> "2024-11-14CET00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/period> <http://www.w3.org/ns/dcat#startDate> "2024-12-15CET00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/period> <http://www.w3.org/ns/dcat#startDate> "2025-01-28CET00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/period> <http://www.w3.org/ns/dcat#startDate> "2025-02-10CET00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/period> <http://www.w3.org/ns/dcat#startDate> "2025-02-18CET00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/period> <http://www.w3.org/ns/dcat#startDate> "2025-03-11CET00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/period> <http://www.w3.org/ns/dcat#startDate> "2025-04-17CEST00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/period> <http://www.w3.org/ns/dcat#startDate> "2025-04-22CEST00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/period> <http://www.w3.org/ns/dcat#startDate> "2025-06-26CEST00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/period> <http://www.w3.org/ns/dcat#startDate> "2025-09-29CEST00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/period> <http://www.w3.org/ns/dcat#startDate> "2025-09-30CEST00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://mobilitydata.at/AT-171> <http://purl.org/dc/terms/accessURL> "https%3A%2F%2Fcontentportal.asfinag.at%2Fdata" .
+<http://mobilitydata.at/AT-171> <http://purl.org/dc/terms/description> "" .
+<http://mobilitydata.at/AT-171> <http://purl.org/dc/terms/description> "Ereignisdaten auf dem \u00F6sterreichischen Autobahn- und Schnellstra\u00DFennetz\n" .
+<http://mobilitydata.at/AT-171> <http://purl.org/dc/terms/Format> "" .
+<http://mobilitydata.at/AT-171> <http://purl.org/dc/terms/Format> "ASCII" .
+<http://mobilitydata.at/AT-171> <http://purl.org/dc/terms/identifier> "AT-171" .
+<http://mobilitydata.at/AT-171> <http://purl.org/dc/terms/licence> "Nutzungsvertrag mit Nutzungsgeb\u00FChr" .
+<http://mobilitydata.at/AT-171> <http://purl.org/dc/terms/location> "" .
+<http://mobilitydata.at/AT-171> <http://purl.org/dc/terms/publisher> <https://www.asfinag.at/> .
+<http://mobilitydata.at/AT-171> <http://purl.org/dc/terms/rightsHolder> <https://www.asfinag.at/> .
+<http://mobilitydata.at/AT-171> <http://purl.org/dc/terms/rights> _:vb11633 .
+<http://mobilitydata.at/AT-171> <http://purl.org/dc/terms/source> _:vb11632 .
+<http://mobilitydata.at/AT-171> <http://purl.org/dc/terms/title> "ASFINAG Ereignisse" .
+<http://mobilitydata.at/AT-171> <https://w3id.org/mobilitydcat-ap#applicationLayerProtocol> "HTTP/HTTPS" .
+<http://mobilitydata.at/AT-171> <https://w3id.org/mobilitydcat-ap#communicationMethod> "pull" .
+<http://mobilitydata.at/AT-171> <https://w3id.org/mobilitydcat-ap#dataModel> "DATEX II Profile" .
+<http://mobilitydata.at/AT-171> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Accidents and incidents" .
+<http://mobilitydata.at/AT-171> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Current travel times" .
+<http://mobilitydata.at/AT-171> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Expected delays" .
+<http://mobilitydata.at/AT-171> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Location and length of queues" .
+<http://mobilitydata.at/AT-171> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Long-term road works" .
+<http://mobilitydata.at/AT-171> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Poor road conditions" .
+<http://mobilitydata.at/AT-171> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Predicted travel times" .
+<http://mobilitydata.at/AT-171> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Real-time traffic data" .
+<http://mobilitydata.at/AT-171> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road events and conditions" .
+<http://mobilitydata.at/AT-171> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road weather conditions" .
+<http://mobilitydata.at/AT-171> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road work information" .
+<http://mobilitydata.at/AT-171> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Short-term road works" .
+<http://mobilitydata.at/AT-171> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Speed" .
+<http://mobilitydata.at/AT-171> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Traffic data at border crossings to third countries" .
+<http://mobilitydata.at/AT-171> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Traffic volume" .
+<http://mobilitydata.at/AT-171> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Waiting time at border crossings to non-EU Member States" .
+<http://mobilitydata.at/AT-171> <https://w3id.org/mobilitydcat-ap#qualityDescription> "24x7 Betrieb, Quasi-Echtzeit, qualtit\u00E4tsgesichert durch spezialisiertes Personal\n" .
+<http://mobilitydata.at/AT-171> <https://w3id.org/mobilitydcat-ap#serviceCategory> "Information Service" .
+<http://mobilitydata.at/AT-171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://mobilitydata.at/AT-171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#distribution> .
+<http://mobilitydata.at/AT-171> <http://www.w3.org/ns/dcat#accrualPeriodicity> "1min" .
+<http://mobilitydata.at/AT-171> <http://www.w3.org/ns/dcat#distribution> <http://mobilitydata.at/AT-171> .
+<http://mobilitydata.at/AT-189> <http://purl.org/dc/terms/accessURL> "https%3A%2F%2Fcontentportal.asfinag.at%2Fdata" .
+<http://mobilitydata.at/AT-189> <http://purl.org/dc/terms/description> "" .
+<http://mobilitydata.at/AT-189> <http://purl.org/dc/terms/description> "Baustellendaten auf dem \u00F6sterreichischen Autobahn- und Schnellstra\u00DFennetz\n" .
+<http://mobilitydata.at/AT-189> <http://purl.org/dc/terms/Format> "" .
+<http://mobilitydata.at/AT-189> <http://purl.org/dc/terms/identifier> "AT-189" .
+<http://mobilitydata.at/AT-189> <http://purl.org/dc/terms/licence> "Nutzungsvertrag mit Nutzungsgeb\u00FChr" .
+<http://mobilitydata.at/AT-189> <http://purl.org/dc/terms/location> "" .
+<http://mobilitydata.at/AT-189> <http://purl.org/dc/terms/publisher> <https://www.asfinag.at/> .
+<http://mobilitydata.at/AT-189> <http://purl.org/dc/terms/rightsHolder> <https://www.asfinag.at/> .
+<http://mobilitydata.at/AT-189> <http://purl.org/dc/terms/rights> _:vb11635 .
+<http://mobilitydata.at/AT-189> <http://purl.org/dc/terms/source> _:vb11634 .
+<http://mobilitydata.at/AT-189> <http://purl.org/dc/terms/title> "ASFINAG Baustellen" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#applicationLayerProtocol> "HTTP/HTTPS" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#communicationMethod> "pull" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#dataModel> "DATEX II Profile" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Accidents and incidents" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Bridge access conditions" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Bridge closures and access conditions" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Direction of travel on reversible lanes" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Dynamic overtaking bans on heavy goods vehicles" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Dynamic Speed limits" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Dynamic traffic signs and regulations" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Lane closures and access conditions" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Long-term road works" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Other access restrictions and traffic regulations" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Other temporary traffic management measures or plans" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Other traffic regulations" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Permanent access restrictions" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Poor road conditions" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road closures and access conditions" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road events and conditions" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road weather conditions" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road work information" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Short-term road works" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Speed limits" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Static traffic signs and regulations" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Tunnel access conditions" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Tunnel closures and access conditions" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#qualityDescription> "24x7 Betrieb, Quasi-Echtzeit, qualit\u00E4tsgesichert durch spezialisiertes Personal\n" .
+<http://mobilitydata.at/AT-189> <https://w3id.org/mobilitydcat-ap#serviceCategory> "Information Service" .
+<http://mobilitydata.at/AT-189> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://mobilitydata.at/AT-189> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#distribution> .
+<http://mobilitydata.at/AT-189> <http://www.w3.org/ns/dcat#accrualPeriodicity> "1min" .
+<http://mobilitydata.at/AT-189> <http://www.w3.org/ns/dcat#distribution> <http://mobilitydata.at/AT-189> .
+<http://mobilitydata.at/AT-190> <http://purl.org/dc/terms/accessURL> "https%3A%2F%2Fcontentportal.asfinag.at%2Fdata" .
+<http://mobilitydata.at/AT-190> <http://purl.org/dc/terms/description> "" .
+<http://mobilitydata.at/AT-190> <http://purl.org/dc/terms/description> "Schaltung der Wechselvehrszeichen auf dem \u00F6sterreichischen Autobahn- und Schnellstra\u00DFennetz\n" .
+<http://mobilitydata.at/AT-190> <http://purl.org/dc/terms/Format> "" .
+<http://mobilitydata.at/AT-190> <http://purl.org/dc/terms/identifier> "AT-190" .
+<http://mobilitydata.at/AT-190> <http://purl.org/dc/terms/licence> "Nutzungsvertrag mit Nutzungsgeb\u00FChr" .
+<http://mobilitydata.at/AT-190> <http://purl.org/dc/terms/location> "" .
+<http://mobilitydata.at/AT-190> <http://purl.org/dc/terms/publisher> <https://www.asfinag.at/> .
+<http://mobilitydata.at/AT-190> <http://purl.org/dc/terms/rightsHolder> <https://www.asfinag.at/> .
+<http://mobilitydata.at/AT-190> <http://purl.org/dc/terms/rights> _:vb11637 .
+<http://mobilitydata.at/AT-190> <http://purl.org/dc/terms/source> _:vb11636 .
+<http://mobilitydata.at/AT-190> <http://purl.org/dc/terms/title> "ASFINAG Wechselverkehrszeichen" .
+<http://mobilitydata.at/AT-190> <https://w3id.org/mobilitydcat-ap#applicationLayerProtocol> "HTTP/HTTPS" .
+<http://mobilitydata.at/AT-190> <https://w3id.org/mobilitydcat-ap#communicationMethod> "pull" .
+<http://mobilitydata.at/AT-190> <https://w3id.org/mobilitydcat-ap#dataModel> "DATEX II Profile" .
+<http://mobilitydata.at/AT-190> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Dynamic overtaking bans on heavy goods vehicles" .
+<http://mobilitydata.at/AT-190> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Dynamic Speed limits" .
+<http://mobilitydata.at/AT-190> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Dynamic traffic signs and regulations" .
+<http://mobilitydata.at/AT-190> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Lane closures and access conditions" .
+<http://mobilitydata.at/AT-190> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road closures and access conditions" .
+<http://mobilitydata.at/AT-190> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Tunnel closures and access conditions" .
+<http://mobilitydata.at/AT-190> <https://w3id.org/mobilitydcat-ap#qualityDescription> "24x7 Betrieb, Quasi-Echtzeit, qualit\u00E4tsgesichert durch spezialisiertes Personal\n" .
+<http://mobilitydata.at/AT-190> <https://w3id.org/mobilitydcat-ap#serviceCategory> "Information Service" .
+<http://mobilitydata.at/AT-190> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://mobilitydata.at/AT-190> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#distribution> .
+<http://mobilitydata.at/AT-190> <http://www.w3.org/ns/dcat#accrualPeriodicity> "1min" .
+<http://mobilitydata.at/AT-190> <http://www.w3.org/ns/dcat#distribution> <http://mobilitydata.at/AT-190> .
+<http://mobilitydata.at/AT-191> <http://purl.org/dc/terms/accessURL> "https%3A%2F%2Fcontentportal.asfinag.at%2Fdata" .
+<http://mobilitydata.at/AT-191> <http://purl.org/dc/terms/description> "" .
+<http://mobilitydata.at/AT-191> <http://purl.org/dc/terms/description> "Verkehrslage auf dem \u00F6sterreichischen Autobahn- und Schnellstra\u00DFennetz\n" .
+<http://mobilitydata.at/AT-191> <http://purl.org/dc/terms/Format> "" .
+<http://mobilitydata.at/AT-191> <http://purl.org/dc/terms/identifier> "AT-191" .
+<http://mobilitydata.at/AT-191> <http://purl.org/dc/terms/licence> "Nutzungsvertrag mit Nutzungsgeb\u00FChr" .
+<http://mobilitydata.at/AT-191> <http://purl.org/dc/terms/location> "" .
+<http://mobilitydata.at/AT-191> <http://purl.org/dc/terms/publisher> <https://www.asfinag.at/> .
+<http://mobilitydata.at/AT-191> <http://purl.org/dc/terms/rightsHolder> <https://www.asfinag.at/> .
+<http://mobilitydata.at/AT-191> <http://purl.org/dc/terms/rights> _:vb11639 .
+<http://mobilitydata.at/AT-191> <http://purl.org/dc/terms/source> _:vb11638 .
+<http://mobilitydata.at/AT-191> <http://purl.org/dc/terms/title> "ASFINAG Verkehrslage" .
+<http://mobilitydata.at/AT-191> <https://w3id.org/mobilitydcat-ap#applicationLayerProtocol> "HTTP/HTTPS" .
+<http://mobilitydata.at/AT-191> <https://w3id.org/mobilitydcat-ap#communicationMethod> "pull" .
+<http://mobilitydata.at/AT-191> <https://w3id.org/mobilitydcat-ap#dataModel> "DATEX II Profile" .
+<http://mobilitydata.at/AT-191> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Current travel times" .
+<http://mobilitydata.at/AT-191> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Real-time traffic data" .
+<http://mobilitydata.at/AT-191> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Traffic volume" .
+<http://mobilitydata.at/AT-191> <https://w3id.org/mobilitydcat-ap#qualityDescription> "24x7 Betrieb, Quasi-Echtzeit, qualit\u00E4tsgesichert durch spezialisiertes Personal\n" .
+<http://mobilitydata.at/AT-191> <https://w3id.org/mobilitydcat-ap#serviceCategory> "Information Service" .
+<http://mobilitydata.at/AT-191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://mobilitydata.at/AT-191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#distribution> .
+<http://mobilitydata.at/AT-191> <http://www.w3.org/ns/dcat#accrualPeriodicity> "1min" .
+<http://mobilitydata.at/AT-191> <http://www.w3.org/ns/dcat#distribution> <http://mobilitydata.at/AT-191> .
+<http://mobilitydata.at/AT-192> <http://purl.org/dc/terms/accessURL> "https%3A%2F%2Fcontentportal.asfinag.at%2Fdata" .
+<http://mobilitydata.at/AT-192> <http://purl.org/dc/terms/description> "" .
+<http://mobilitydata.at/AT-192> <http://purl.org/dc/terms/description> "Lkw-Stellpl\u00E4tze und Belegung auf dem \u00F6sterreichischen Autobahn- und Schnellstrassennetz\n" .
+<http://mobilitydata.at/AT-192> <http://purl.org/dc/terms/Format> "" .
+<http://mobilitydata.at/AT-192> <http://purl.org/dc/terms/identifier> "AT-192" .
+<http://mobilitydata.at/AT-192> <http://purl.org/dc/terms/licence> "Nutzungsvertrag mit Nutzungsgeb\u00FChr" .
+<http://mobilitydata.at/AT-192> <http://purl.org/dc/terms/location> "" .
+<http://mobilitydata.at/AT-192> <http://purl.org/dc/terms/publisher> <https://www.asfinag.at/> .
+<http://mobilitydata.at/AT-192> <http://purl.org/dc/terms/rightsHolder> <https://www.asfinag.at/> .
+<http://mobilitydata.at/AT-192> <http://purl.org/dc/terms/rights> _:vb11641 .
+<http://mobilitydata.at/AT-192> <http://purl.org/dc/terms/source> _:vb11640 .
+<http://mobilitydata.at/AT-192> <http://purl.org/dc/terms/title> "ASFINAG Lkw-Stellpl\u00E4tze" .
+<http://mobilitydata.at/AT-192> <https://w3id.org/mobilitydcat-ap#applicationLayerProtocol> "HTTP/HTTPS" .
+<http://mobilitydata.at/AT-192> <https://w3id.org/mobilitydcat-ap#communicationMethod> "pull" .
+<http://mobilitydata.at/AT-192> <https://w3id.org/mobilitydcat-ap#dataModel> "DATEX II Profile" .
+<http://mobilitydata.at/AT-192> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Car parking locations and conditions" .
+<http://mobilitydata.at/AT-192> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Parking, service and rest area information" .
+<http://mobilitydata.at/AT-192> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Service and rest area availability" .
+<http://mobilitydata.at/AT-192> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Service and rest area locations and conditions" .
+<http://mobilitydata.at/AT-192> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Truck parking availability" .
+<http://mobilitydata.at/AT-192> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Truck parking locations and conditions" .
+<http://mobilitydata.at/AT-192> <https://w3id.org/mobilitydcat-ap#qualityDescription> "24x7 Betrieb, Quasi-Echtzeit, qualit\u00E4tsgesichert durch spezialisiertes Personal\n" .
+<http://mobilitydata.at/AT-192> <https://w3id.org/mobilitydcat-ap#serviceCategory> "Information Service" .
+<http://mobilitydata.at/AT-192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://mobilitydata.at/AT-192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#distribution> .
+<http://mobilitydata.at/AT-192> <http://www.w3.org/ns/dcat#accrualPeriodicity> "1min" .
+<http://mobilitydata.at/AT-192> <http://www.w3.org/ns/dcat#distribution> <http://mobilitydata.at/AT-192> .
+<http://mobilitydata.at/AT-193> <http://purl.org/dc/terms/accessURL> "https%3A%2F%2Fcontentportal.asfinag.at%2Fdata" .
+<http://mobilitydata.at/AT-193> <http://purl.org/dc/terms/description> "" .
+<http://mobilitydata.at/AT-193> <http://purl.org/dc/terms/description> "Rastanlagen auf dem \u00F6sterreichischen Autobahn- und Schnellstra\u00DFennetz\n" .
+<http://mobilitydata.at/AT-193> <http://purl.org/dc/terms/Format> "" .
+<http://mobilitydata.at/AT-193> <http://purl.org/dc/terms/identifier> "AT-193" .
+<http://mobilitydata.at/AT-193> <http://purl.org/dc/terms/licence> "Nutzungsvertrag mit Nutzungsgeb\u00FChr" .
+<http://mobilitydata.at/AT-193> <http://purl.org/dc/terms/location> "" .
+<http://mobilitydata.at/AT-193> <http://purl.org/dc/terms/publisher> <https://www.asfinag.at/> .
+<http://mobilitydata.at/AT-193> <http://purl.org/dc/terms/rightsHolder> <http://mobilitydata.at> .
+<http://mobilitydata.at/AT-193> <http://purl.org/dc/terms/rights> _:vb11643 .
+<http://mobilitydata.at/AT-193> <http://purl.org/dc/terms/source> _:vb11642 .
+<http://mobilitydata.at/AT-193> <http://purl.org/dc/terms/title> "ASFINAG Rastanlagen" .
+<http://mobilitydata.at/AT-193> <https://w3id.org/mobilitydcat-ap#applicationLayerProtocol> "HTTP/HTTPS" .
+<http://mobilitydata.at/AT-193> <https://w3id.org/mobilitydcat-ap#communicationMethod> "pull" .
+<http://mobilitydata.at/AT-193> <https://w3id.org/mobilitydcat-ap#dataModel> "DATEX II Profile" .
+<http://mobilitydata.at/AT-193> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Car parking locations and conditions" .
+<http://mobilitydata.at/AT-193> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Parking, service and rest area information" .
+<http://mobilitydata.at/AT-193> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Service and rest area availability" .
+<http://mobilitydata.at/AT-193> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Service and rest area locations and conditions" .
+<http://mobilitydata.at/AT-193> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Truck parking availability" .
+<http://mobilitydata.at/AT-193> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Truck parking locations and conditions" .
+<http://mobilitydata.at/AT-193> <https://w3id.org/mobilitydcat-ap#qualityDescription> "24x7 Betrieb, Quasi-Echtzeit, qualit\u00E4tsgesichert durch spezialisiertes Personal\n" .
+<http://mobilitydata.at/AT-193> <https://w3id.org/mobilitydcat-ap#serviceCategory> "Information Service" .
+<http://mobilitydata.at/AT-193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://mobilitydata.at/AT-193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#distribution> .
+<http://mobilitydata.at/AT-193> <http://www.w3.org/ns/dcat#accrualPeriodicity> "1min" .
+<http://mobilitydata.at/AT-193> <http://www.w3.org/ns/dcat#distribution> <http://mobilitydata.at/AT-193> .
+<http://mobilitydata.at/AT-194> <http://purl.org/dc/terms/accessURL> "https%3A%2F%2Fcontentportal.asfinag.at%2Fdata" .
+<http://mobilitydata.at/AT-194> <http://purl.org/dc/terms/description> "" .
+<http://mobilitydata.at/AT-194> <http://purl.org/dc/terms/description> "Mautstellen auf dem \u00F6sterreichischen Autobahn- und Schnellstra\u00DFennetz\n" .
+<http://mobilitydata.at/AT-194> <http://purl.org/dc/terms/Format> "" .
+<http://mobilitydata.at/AT-194> <http://purl.org/dc/terms/identifier> "AT-194" .
+<http://mobilitydata.at/AT-194> <http://purl.org/dc/terms/licence> "Nutzungsvertrag mit Nutzungsgeb\u00FChr" .
+<http://mobilitydata.at/AT-194> <http://purl.org/dc/terms/location> "" .
+<http://mobilitydata.at/AT-194> <http://purl.org/dc/terms/publisher> <https://www.asfinag.at/> .
+<http://mobilitydata.at/AT-194> <http://purl.org/dc/terms/rightsHolder> <https://www.asfinag.at/> .
+<http://mobilitydata.at/AT-194> <http://purl.org/dc/terms/rights> _:vb11645 .
+<http://mobilitydata.at/AT-194> <http://purl.org/dc/terms/source> _:vb11644 .
+<http://mobilitydata.at/AT-194> <http://purl.org/dc/terms/title> "ASFINAG Mautstellen" .
+<http://mobilitydata.at/AT-194> <https://w3id.org/mobilitydcat-ap#applicationLayerProtocol> "HTTP/HTTPS" .
+<http://mobilitydata.at/AT-194> <https://w3id.org/mobilitydcat-ap#communicationMethod> "pull" .
+<http://mobilitydata.at/AT-194> <https://w3id.org/mobilitydcat-ap#dataModel> "DATEX II Profile" .
+<http://mobilitydata.at/AT-194> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Identification of tolled roads" .
+<http://mobilitydata.at/AT-194> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Location of tolling stations" .
+<http://mobilitydata.at/AT-194> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Toll information" .
+<http://mobilitydata.at/AT-194> <https://w3id.org/mobilitydcat-ap#qualityDescription> "24x7 Betrieb, Quasi-Echtzeit, qualit\u00E4tsgesichert durch spezialisiertes Personal\n" .
+<http://mobilitydata.at/AT-194> <https://w3id.org/mobilitydcat-ap#serviceCategory> "Information Service" .
+<http://mobilitydata.at/AT-194> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://mobilitydata.at/AT-194> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#distribution> .
+<http://mobilitydata.at/AT-194> <http://www.w3.org/ns/dcat#accrualPeriodicity> "1min" .
+<http://mobilitydata.at/AT-194> <http://www.w3.org/ns/dcat#distribution> <http://mobilitydata.at/AT-194> .
+<http://mobilitydata.at/AT-220> <http://purl.org/dc/terms/accessURL> "https%3A%2F%2Fdev.orf.at%2Fvks" .
+<http://mobilitydata.at/AT-220> <http://purl.org/dc/terms/description> "laut DATEX Standard\n" .
+<http://mobilitydata.at/AT-220> <http://purl.org/dc/terms/description> "Meldungs-ID, Version, Meldungs-Typ, Erstellungsdatum, Aktualisierungsdatum,G\u00FCltig von, G\u00FCltig bis, Quelle, Status, Basis DATEX II, Event,Text,Strasse,Von,Bis, Richtung, Longitude, Latitude, Meldungen von Stra\u00DFe und Schiene (\u00D6V)\n" .
+<http://mobilitydata.at/AT-220> <http://purl.org/dc/terms/Format> "" .
+<http://mobilitydata.at/AT-220> <http://purl.org/dc/terms/Format> "UTF-8" .
+<http://mobilitydata.at/AT-220> <http://purl.org/dc/terms/identifier> "AT-220" .
+<http://mobilitydata.at/AT-220> <http://purl.org/dc/terms/licence> "Nutzungsvertrag mit Nutzungsgeb\u00FChr" .
+<http://mobilitydata.at/AT-220> <http://purl.org/dc/terms/location> "" .
+<http://mobilitydata.at/AT-220> <http://purl.org/dc/terms/publisher> <http://mobilitydata.at/oe3.orf.at> .
+<http://mobilitydata.at/AT-220> <http://purl.org/dc/terms/rightsHolder> <http://mobilitydata.at/oe3.orf.at> .
+<http://mobilitydata.at/AT-220> <http://purl.org/dc/terms/rights> _:vb11647 .
+<http://mobilitydata.at/AT-220> <http://purl.org/dc/terms/source> _:vb11646 .
+<http://mobilitydata.at/AT-220> <http://purl.org/dc/terms/title> "ORF Verkehrsinformation " .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#applicationLayerProtocol> "HTTP/HTTPS" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#communicationMethod> "pull" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#dataModel> "DATEX II Profile" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#grammar> "Andere" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Accidents and incidents" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Bridge closures and access conditions" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Car parking locations and conditions" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Current travel times" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Direction of travel on reversible lanes" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Disruptions, delays, cancellations" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Dynamic overtaking bans on heavy goods vehicles" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Dynamic traffic signs and regulations" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Expected delays" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Lane closures and access conditions" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Location and length of queues" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Long-term road works" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Number of lanes" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Other access restrictions and traffic regulations" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Other temporary traffic management measures or plans" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Parking, service and rest area information" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Poor road conditions" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Predicted travel times" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Real-time traffic data" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road classification" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road closures and access conditions" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road events and conditions" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road weather conditions" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road work information" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Scheduled Public transport" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Short-term road works" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Speed" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Static road network data" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Traffic data at border crossings to third countries" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Traffic volume" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Tunnel closures and access conditions" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Waiting time at border crossings to non-EU Member States" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#qualityDescription> "Die ORF-Verkehrsredaktion ist die zentrale Koordinationsstelle f\u00FCr Verkehrsinformation im ORF. Hier werden rund 1,2 Million Verkehrsmeldungen pro Jahr generiert, selektiert, aufbereitet und distribuiert. \u00DCber das bundesweite Radioprogramm \u00D63 und die 9 Regionalradios des ORF werden die aktuellen Verkehrsinformationen (Stra\u00DFe, Bus und Bahn) rund um die Uhr f\u00FCr \u00D6sterreich und die Grenzgebiete zur halben und vollen Stunde in gesprochener Form distribuiert.  Gefahrenmeldungen \u2013 wie bspw. Geisterfahrer \u2013 unterbrechen das Programm sofort. Der ORF und die ASFINAG betreiben dar\u00FCber hinaus rund um die Uhr und bundesweit den TMCplus-Service, bei dem alle Navigationsger\u00E4te mit aktueller Verkehrsinformation beliefert werden. Multimedial sind die ORF Verkehrsmeldungen an Infoscreens, allen \u00DCberkopfwegweisern am hochrangigen Stra\u00DFennetz, via \u00D63 App und auf oe3.orf.at empfangbar.\nEine laufende Plausibilit\u00E4tspr\u00FCfung seitens Verkehrsredaktion garantiert die h\u00F6chste Meldungsqualit\u00E4t.\n" .
+<http://mobilitydata.at/AT-220> <https://w3id.org/mobilitydcat-ap#serviceCategory> "Information Service" .
+<http://mobilitydata.at/AT-220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://mobilitydata.at/AT-220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#distribution> .
+<http://mobilitydata.at/AT-220> <http://www.w3.org/ns/dcat#accrualPeriodicity> "1min" .
+<http://mobilitydata.at/AT-220> <http://www.w3.org/ns/dcat#distribution> <http://mobilitydata.at/AT-220> .
+<http://mobilitydata.at/AT-229> <http://purl.org/dc/terms/accessURL> "www.oeamtc.at%2Fparken" .
+<http://mobilitydata.at/AT-229> <http://purl.org/dc/terms/description> "Datenschema-Beschreibung und Funktionen der REST API als Anlage im Mustervertrag.\n" .
+<http://mobilitydata.at/AT-229> <http://purl.org/dc/terms/description> "Kurzparkzonen / parkraumbewirtschaftete Zonen (detaillierte Polygon-Darstellung)\nverf\u00FCgbare Attribute:\n- G\u00FCltigkeitszeiten\n- max. Parkdauer\n- Preise\n- Bezahlm\u00F6glichkeiten und verf\u00FCgbare Payment Provider\n- Ausnahmen\n- Weiterf\u00FChrende Links\nAbdeckung (Stand April 2025): 59 St\u00E4dte\n\nAmstetten, Bad Aussee, Baden, Bad Ischl, Bischofshofen, Bludenz, Braunau, Bregenz, Bruck an der Leitha, Brunn am Gebirge, Dornbirn, Eferding, Eisenstadt, Feldkirch, Fischamend, Freistadt, Gerasdorf, Graz, Hallein, Hard, Hohenems, Hollabrunn, Innsbruck, Klagenfurt, Klosterneuburg, Korneuburg, Krems, Langenzersdorf, Lauterach, Laxenburg, Leoben, Leopoldsdorf, Linz, Lochau, Lustenau, Mattersburg, Melk, Mistelbach, M\u00F6dling, Neusiedl am See, Oberwart, Perchtoldsdorf, Purkersdorf, Salzburg, Sch\u00E4rding, Schwechat, Stockerau, St. P\u00F6lten, Telfs, Tulln, Villach, V\u00F6sendorf, V\u00F6sendorf SCS, Waidhofen, Wels, Wien, Wiener Neustadt, W\u00F6rgl, Zell am See" .
+<http://mobilitydata.at/AT-229> <http://purl.org/dc/terms/Format> "" .
+<http://mobilitydata.at/AT-229> <http://purl.org/dc/terms/Format> "UTF-8" .
+<http://mobilitydata.at/AT-229> <http://purl.org/dc/terms/identifier> "AT-229" .
+<http://mobilitydata.at/AT-229> <http://purl.org/dc/terms/licence> "Nutzungsvertrag mit Nutzungsgeb\u00FChr" .
+<http://mobilitydata.at/AT-229> <http://purl.org/dc/terms/location> "" .
+<http://mobilitydata.at/AT-229> <http://purl.org/dc/terms/publisher> <http://mobilitydata.at/www.oeamtc.at/verkehr> .
+<http://mobilitydata.at/AT-229> <http://purl.org/dc/terms/rightsHolder> <http://mobilitydata.at/www.oeamtc.at/verkehr> .
+<http://mobilitydata.at/AT-229> <http://purl.org/dc/terms/rights> _:vb11649 .
+<http://mobilitydata.at/AT-229> <http://purl.org/dc/terms/source> _:vb11648 .
+<http://mobilitydata.at/AT-229> <http://purl.org/dc/terms/title> "Kurzparkzonen / Parkraumbewirtschaftete Zonen in \u00D6sterreich (JSON)" .
+<http://mobilitydata.at/AT-229> <https://w3id.org/mobilitydcat-ap#applicationLayerProtocol> "HTTP/ HTTPS-SOAP" .
+<http://mobilitydata.at/AT-229> <https://w3id.org/mobilitydcat-ap#communicationMethod> "pull" .
+<http://mobilitydata.at/AT-229> <https://w3id.org/mobilitydcat-ap#dataModel> "Andere" .
+<http://mobilitydata.at/AT-229> <https://w3id.org/mobilitydcat-ap#grammar> "Open API" .
+<http://mobilitydata.at/AT-229> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Car parking availability" .
+<http://mobilitydata.at/AT-229> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Car parking locations and conditions" .
+<http://mobilitydata.at/AT-229> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Parking, service and rest area information" .
+<http://mobilitydata.at/AT-229> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Truck parking availability" .
+<http://mobilitydata.at/AT-229> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Truck parking locations and conditions" .
+<http://mobilitydata.at/AT-229> <https://w3id.org/mobilitydcat-ap#qualityDescription> "Datengrundlage: offizielle Verordnungen der Kommunen\nDarstellungsform: detaillierte Polygone, alle Attribute in strukturierter Form\nAktualisierung: 1 x pro Quartal sowie bei Bedarf (\u00C4nderung der Kurzparkzone / Parkraumbewirtschafteten Zone), Wien: alle 2 Wochen" .
+<http://mobilitydata.at/AT-229> <https://w3id.org/mobilitydcat-ap#serviceCategory> "Information Service" .
+<http://mobilitydata.at/AT-229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://mobilitydata.at/AT-229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#distribution> .
+<http://mobilitydata.at/AT-229> <http://www.w3.org/ns/dcat#accrualPeriodicity> "W\u00F6chentlich" .
+<http://mobilitydata.at/AT-229> <http://www.w3.org/ns/dcat#distribution> <http://mobilitydata.at/AT-229> .
+<http://mobilitydata.at/AT-230> <http://purl.org/dc/terms/accessURL> "https%3A%2F%2Fwww.oeamtc.at%2Fnews%2Fwien%2Foeamtc-app-bietet-orientierung-ueber-kurzparkzonen-und-alternativen-28253875" .
+<http://mobilitydata.at/AT-230> <http://purl.org/dc/terms/description> "" .
+<http://mobilitydata.at/AT-230> <http://purl.org/dc/terms/description> "Kurzparkzonen / parkraumbewirtschaftete Zonen (detaillierte Polygon-Darstellung)\nverf\u00FCgbare Attribute:\n- G\u00FCltigkeitszeiten\n- max. Parkdauer\n- Preise\n- Bezahlm\u00F6glichkeiten und verf\u00FCgbare Payment Provider\n- Ausnahmen\n- Weiterf\u00FChrende Links\nAbdeckung (Stand April 2025): 59 St\u00E4dte\n\nAmstetten, Bad Aussee, Baden, Bad Ischl, Bischofshofen, Bludenz, Braunau, Bregenz, Bruck an der Leitha, Brunn am Gebirge, Dornbirn, Eferding, Eisenstadt, Feldkirch, Fischamend, Freistadt, Gerasdorf, Graz, Hallein, Hard, Hohenems, Hollabrunn, Innsbruck, Klagenfurt, Klosterneuburg, Korneuburg, Krems, Langenzersdorf, Lauterach, Laxenburg, Leoben, Leopoldsdorf, Linz, Lochau, Lustenau, Mattersburg, Melk, Mistelbach, M\u00F6dling, Neusiedl am See, Oberwart, Perchtoldsdorf, Purkersdorf, Salzburg, Sch\u00E4rding, Schwechat, Stockerau, St. P\u00F6lten, Telfs, Tulln, Villach, V\u00F6sendorf, V\u00F6sendorf SCS, Waidhofen, Wels, Wien, Wiener Neustadt, W\u00F6rgl, Zell am See" .
+<http://mobilitydata.at/AT-230> <http://purl.org/dc/terms/Format> "" .
+<http://mobilitydata.at/AT-230> <http://purl.org/dc/terms/Format> "UTF-8" .
+<http://mobilitydata.at/AT-230> <http://purl.org/dc/terms/identifier> "AT-230" .
+<http://mobilitydata.at/AT-230> <http://purl.org/dc/terms/licence> "Nutzungsvertrag mit Nutzungsgeb\u00FChr" .
+<http://mobilitydata.at/AT-230> <http://purl.org/dc/terms/location> "" .
+<http://mobilitydata.at/AT-230> <http://purl.org/dc/terms/publisher> <http://mobilitydata.at/www.oeamtc.at/verkehr> .
+<http://mobilitydata.at/AT-230> <http://purl.org/dc/terms/rightsHolder> <http://mobilitydata.at/www.oeamtc.at/verkehr> .
+<http://mobilitydata.at/AT-230> <http://purl.org/dc/terms/rights> _:vb11651 .
+<http://mobilitydata.at/AT-230> <http://purl.org/dc/terms/source> _:vb11650 .
+<http://mobilitydata.at/AT-230> <http://purl.org/dc/terms/title> "Kurzparkzonen / Parkraumbewirtschaftete Zonen in \u00D6sterreich (kml)" .
+<http://mobilitydata.at/AT-230> <https://w3id.org/mobilitydcat-ap#applicationLayerProtocol> "Andere" .
+<http://mobilitydata.at/AT-230> <https://w3id.org/mobilitydcat-ap#communicationMethod> "pull" .
+<http://mobilitydata.at/AT-230> <https://w3id.org/mobilitydcat-ap#dataModel> "KML" .
+<http://mobilitydata.at/AT-230> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Car parking availability" .
+<http://mobilitydata.at/AT-230> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Car parking locations and conditions" .
+<http://mobilitydata.at/AT-230> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Parking, service and rest area information" .
+<http://mobilitydata.at/AT-230> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Truck parking availability" .
+<http://mobilitydata.at/AT-230> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Truck parking locations and conditions" .
+<http://mobilitydata.at/AT-230> <https://w3id.org/mobilitydcat-ap#qualityDescription> "Datengrundlage: offizielle Verordnungen der Kommunen\nDarstellungsform: detaillierte Polygone, alle Attribute in strukturierter Form\nAktualisierung: 1 x pro Quartal sowie bei Bedarf (\u00C4nderung der Kurzparkzone / parkraumbewirtschafteten Zone), Wien: alle 2 Wochen\n" .
+<http://mobilitydata.at/AT-230> <https://w3id.org/mobilitydcat-ap#serviceCategory> "Information Service" .
+<http://mobilitydata.at/AT-230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://mobilitydata.at/AT-230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#distribution> .
+<http://mobilitydata.at/AT-230> <http://www.w3.org/ns/dcat#accrualPeriodicity> "Monatlich" .
+<http://mobilitydata.at/AT-230> <http://www.w3.org/ns/dcat#distribution> <http://mobilitydata.at/AT-230> .
+<http://mobilitydata.at/AT-232> <http://purl.org/dc/terms/accessURL> "https%3A%2F%2Fwww.oeamtc.at%2Froutenplaner%2Fpoi%2Fparken%3Flat%3D48.18964220000001%26long%3D16.41253489999997%26zoom%3D12" .
+<http://mobilitydata.at/AT-232> <http://purl.org/dc/terms/description> "Datenschema-Beschreibung und Funktionen der REST API als Anlage im Mustervertrag.\n" .
+<http://mobilitydata.at/AT-232> <http://purl.org/dc/terms/description> "Off-Street-Parkings POIs \u2013 \u00F6ffentlich nutzbare kommerzielle Parkgaragen und Park &amp; Ride-Anlagen\nVerf\u00FCgbare Attribute:\n- Adresse / Name\n- Geo-Daten (Schwerpunkt-Koordinate)\n- \u00D6ffnungszeiten\n- Preise und Bezahl-Optionen (z.B. Kreditkarte)\n- Betreiber-Informationen und Kontakt-M\u00F6glichkeit\n- aktuelle Auslastungsdaten (frei / belegt) f\u00FCr rd. 35% Prozent der Daten vorhanden\n- Ausstattung (z.B. Barrierefreiheit, Sicherheitseinrichtungen)\nAbdeckung: \u00D6sterreichweit rd. 80 % aller Offsetreet-Parking-Einrichtungen (ca. 2.000 Einzel-POIs)" .
+<http://mobilitydata.at/AT-232> <http://purl.org/dc/terms/Format> "" .
+<http://mobilitydata.at/AT-232> <http://purl.org/dc/terms/Format> "UTF-8" .
+<http://mobilitydata.at/AT-232> <http://purl.org/dc/terms/identifier> "AT-232" .
+<http://mobilitydata.at/AT-232> <http://purl.org/dc/terms/licence> "Nutzungsvertrag mit Nutzungsgeb\u00FChr" .
+<http://mobilitydata.at/AT-232> <http://purl.org/dc/terms/location> "" .
+<http://mobilitydata.at/AT-232> <http://purl.org/dc/terms/publisher> <http://mobilitydata.at/www.oeamtc.at/verkehr> .
+<http://mobilitydata.at/AT-232> <http://purl.org/dc/terms/rightsHolder> <http://mobilitydata.at/www.oeamtc.at/verkehr> .
+<http://mobilitydata.at/AT-232> <http://purl.org/dc/terms/rights> _:vb11653 .
+<http://mobilitydata.at/AT-232> <http://purl.org/dc/terms/source> _:vb11652 .
+<http://mobilitydata.at/AT-232> <http://purl.org/dc/terms/title> "Parkgaragen und Park-&amp; Ride Anlagen (JSON)" .
+<http://mobilitydata.at/AT-232> <https://w3id.org/mobilitydcat-ap#applicationLayerProtocol> "HTTP/ HTTPS-SOAP" .
+<http://mobilitydata.at/AT-232> <https://w3id.org/mobilitydcat-ap#communicationMethod> "pull" .
+<http://mobilitydata.at/AT-232> <https://w3id.org/mobilitydcat-ap#dataModel> "Andere" .
+<http://mobilitydata.at/AT-232> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Bike-parking locations" .
+<http://mobilitydata.at/AT-232> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Car parking availability" .
+<http://mobilitydata.at/AT-232> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Car parking locations and conditions" .
+<http://mobilitydata.at/AT-232> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Park and Ride stops" .
+<http://mobilitydata.at/AT-232> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Parking, service and rest area information" .
+<http://mobilitydata.at/AT-232> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Service and rest area availability" .
+<http://mobilitydata.at/AT-232> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Truck parking availability" .
+<http://mobilitydata.at/AT-232> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Truck parking locations and conditions" .
+<http://mobilitydata.at/AT-232> <https://w3id.org/mobilitydcat-ap#qualityDescription> "Aktualisierung:\n- Stammdaten 1 x pro Quartal, bei Bedarf h\u00E4ufiger (z.B. Um-/Aus-/Neubau einer Anlage\n- Auslastungsdaten: alle 5 min.\nQuelldaten: Inhalte werden unmittelbar vom Betreiber bezogen\nUser-Feedback: in der \u00D6AMTC-APP (www.oeamtc.at/app) M\u00F6glichkeit, direktes Feed-Back zu den einzelnen Datens\u00E4tzen zu geben inkl. Ansuchen um Korrektur" .
+<http://mobilitydata.at/AT-232> <https://w3id.org/mobilitydcat-ap#serviceCategory> "Information Service" .
+<http://mobilitydata.at/AT-232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://mobilitydata.at/AT-232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#distribution> .
+<http://mobilitydata.at/AT-232> <http://www.w3.org/ns/dcat#accrualPeriodicity> "5min" .
+<http://mobilitydata.at/AT-232> <http://www.w3.org/ns/dcat#distribution> <http://mobilitydata.at/AT-232> .
+<http://mobilitydata.at/AT-234> <http://purl.org/dc/terms/accessURL> "https%3A%2F%2Fwww.oeamtc.at%2Fverkehrsservice" .
+<http://mobilitydata.at/AT-234> <http://purl.org/dc/terms/description> "" .
+<http://mobilitydata.at/AT-234> <http://purl.org/dc/terms/description> "Abdeckung: \u00D6sterreich (gesamtes Stra\u00DFennetz, FRC0-FRC6)\nKategorien der Ereignismeldungen:\n- Geplant (Baustellen, Veranstaltungen)\n Typen:\n Sperre\n Baustelle\n (sonstige geplante) Verkehrsbehinderung\n Meldungsaufhebung\n- Ungeplant (Unf\u00E4lle, Staus, Wartezeiten, Elementarereignisse)\n Typen:\n Sperre\n Schneekettenpflicht\n Stau (inkl. Grenzwartezeit)\n Stra\u00DFenzustand\n (sonstige ungeplante) Verkehrsbehinderung\n Meldungsaufhebung\nDaten-Aktualisierung: 24/7, alle 5 min.\nFormat: Geo-RSS 2.0\n" .
+<http://mobilitydata.at/AT-234> <http://purl.org/dc/terms/Format> "" .
+<http://mobilitydata.at/AT-234> <http://purl.org/dc/terms/Format> "UTF-8" .
+<http://mobilitydata.at/AT-234> <http://purl.org/dc/terms/identifier> "AT-234" .
+<http://mobilitydata.at/AT-234> <http://purl.org/dc/terms/licence> "Nutzungsvertrag mit Nutzungsgeb\u00FChr" .
+<http://mobilitydata.at/AT-234> <http://purl.org/dc/terms/location> "" .
+<http://mobilitydata.at/AT-234> <http://purl.org/dc/terms/publisher> <http://mobilitydata.at/www.oeamtc.at/verkehr> .
+<http://mobilitydata.at/AT-234> <http://purl.org/dc/terms/rightsHolder> <http://mobilitydata.at/www.oeamtc.at/verkehr> .
+<http://mobilitydata.at/AT-234> <http://purl.org/dc/terms/rights> _:vb11655 .
+<http://mobilitydata.at/AT-234> <http://purl.org/dc/terms/source> _:vb11654 .
+<http://mobilitydata.at/AT-234> <http://purl.org/dc/terms/title> "Verkehrsinformationen: Geplante und ungeplante Ereignismeldungen (RSS)" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#applicationLayerProtocol> "RSS" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#communicationMethod> "pull" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#dataModel> "Andere" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Accidents and incidents" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Bridge access conditions" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Bridge closures and access conditions" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Direction of travel on reversible lanes" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Dynamic overtaking bans on heavy goods vehicles" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Dynamic Speed limits" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Dynamic traffic signs and regulations" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Lane closures and access conditions" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Location and length of queues" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Long-term road works" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Other access restrictions and traffic regulations" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Other temporary traffic management measures or plans" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Other traffic regulations" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Permanent access restrictions" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Poor road conditions" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Real-time traffic data" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road closures and access conditions" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road events and conditions" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road weather conditions" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road work information" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Speed limits" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Static traffic signs and regulations" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Traffic circulation plans" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Tunnel access conditions" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Tunnel closures and access conditions" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#qualityDescription> "Prim\u00E4rquellen der Daten sind ausschlie\u00DFlich autorisierte Stellen (Infrastrukturbetreiber, Exekutive).\n\nAlle eingehenden Daten werden (teil-) automatisiert auf Plausibilit\u00E4t, Redundanz zu anderen Meldungen sowie inhaltlich und verortungstechnisch gepr\u00FCft. Zus\u00E4tzlich Abgleich der Stau- und Sperr-Informationen mit Verkehrsflussdaten (generiert aus FCD). Daneben erfolgen in regelm\u00E4\u00DFigen Intervallen, detaillierte Qualit\u00E4tsauswertungen.\n" .
+<http://mobilitydata.at/AT-234> <https://w3id.org/mobilitydcat-ap#serviceCategory> "Information Service" .
+<http://mobilitydata.at/AT-234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://mobilitydata.at/AT-234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#distribution> .
+<http://mobilitydata.at/AT-234> <http://www.w3.org/ns/dcat#accrualPeriodicity> "5min" .
+<http://mobilitydata.at/AT-234> <http://www.w3.org/ns/dcat#distribution> <http://mobilitydata.at/AT-234> .
+<http://mobilitydata.at/AT-235> <http://purl.org/dc/terms/accessURL> "www.oeamtc.at%2Fverkehrsservice" .
+<http://mobilitydata.at/AT-235> <http://purl.org/dc/terms/description> "" .
+<http://mobilitydata.at/AT-235> <http://purl.org/dc/terms/description> "Abdeckung: \u00D6sterreich (gesamtes Stra\u00DFennetz, FRC0-FRC4)\nKategorien der Ereignismeldungen:\n- Geplant (Baustellen, Veranstaltungen)\n Typen:\n Sperre\n Baustelle\n (sonstige geplante) Verkehrsbehinderung\n Meldungsaufhebung\n- Ungeplant (Unf\u00E4lle, Staus, Wartezeiten, Elementarereignisse)\n Typen:\n Sperre\n Schneekettenpflicht\n Stau (inkl. Grenzwartezeit)\n Stra\u00DFenzustand\n (sonstige ungeplante) Verkehrsbehinderung\n Meldungsaufhebung\nDaten-Aktualisierung: 24/7, alle 5 min.\n" .
+<http://mobilitydata.at/AT-235> <http://purl.org/dc/terms/Format> "" .
+<http://mobilitydata.at/AT-235> <http://purl.org/dc/terms/Format> "UTF-8" .
+<http://mobilitydata.at/AT-235> <http://purl.org/dc/terms/identifier> "AT-235" .
+<http://mobilitydata.at/AT-235> <http://purl.org/dc/terms/licence> "Nutzungsvertrag mit Nutzungsgeb\u00FChr" .
+<http://mobilitydata.at/AT-235> <http://purl.org/dc/terms/location> "" .
+<http://mobilitydata.at/AT-235> <http://purl.org/dc/terms/publisher> <http://mobilitydata.at/www.oeamtc.at/verkehr> .
+<http://mobilitydata.at/AT-235> <http://purl.org/dc/terms/rightsHolder> <http://mobilitydata.at/www.oeamtc.at/verkehr> .
+<http://mobilitydata.at/AT-235> <http://purl.org/dc/terms/rights> _:vb11657 .
+<http://mobilitydata.at/AT-235> <http://purl.org/dc/terms/source> _:vb11656 .
+<http://mobilitydata.at/AT-235> <http://purl.org/dc/terms/title> "Verkehrsinformationen: Geplante und ungeplante Ereignismeldungen (DATEX II)" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#applicationLayerProtocol> "HTTP/HTTPS" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#communicationMethod> "pull" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#dataModel> "DATEX II Profile" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Accidents and incidents" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Bridge access conditions" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Bridge closures and access conditions" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Direction of travel on reversible lanes" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Dynamic overtaking bans on heavy goods vehicles" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Dynamic Speed limits" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Dynamic traffic signs and regulations" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Lane closures and access conditions" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Location and length of queues" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Long-term road works" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Other access restrictions and traffic regulations" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Other temporary traffic management measures or plans" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Other traffic regulations" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Permanent access restrictions" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Poor road conditions" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Real-time traffic data" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road closures and access conditions" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road events and conditions" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road weather conditions" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road work information" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Speed limits" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Static traffic signs and regulations" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Traffic circulation plans" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Traffic volume" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Tunnel access conditions" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Tunnel closures and access conditions" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#qualityDescription> "Prim\u00E4rquellen der Daten sind ausschlie\u00DFlich autorisierte Stellen (Infrastrukturbetreiber, Exekutive).\nAlle eingehenden Daten werden (teil-) automatisiert auf Plausibilit\u00E4t, Redundanz zu anderen Meldungen sowie inhaltlich und verortungstechnisch gepr\u00FCft. Zus\u00E4tzlich Abgleich der Stau- und Sperr-Informationen mit Verkehrsflussdaten (generiert aus FCD). Daneben erfolgen in regelm\u00E4\u00DFigen Intervallen, detaillierte Qualit\u00E4tsauswertungen.\n" .
+<http://mobilitydata.at/AT-235> <https://w3id.org/mobilitydcat-ap#serviceCategory> "Information Service" .
+<http://mobilitydata.at/AT-235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://mobilitydata.at/AT-235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#distribution> .
+<http://mobilitydata.at/AT-235> <http://www.w3.org/ns/dcat#accrualPeriodicity> "5min" .
+<http://mobilitydata.at/AT-235> <http://www.w3.org/ns/dcat#distribution> <http://mobilitydata.at/AT-235> .
+<http://mobilitydata.at/AT-243> <http://purl.org/dc/terms/accessURL> "https%3A%2F%2Fwww.asfinag.at%2F" .
+<http://mobilitydata.at/AT-243> <http://purl.org/dc/terms/description> "Bereitstellung als GIS Shape Files \n" .
+<http://mobilitydata.at/AT-243> <http://purl.org/dc/terms/description> "Ver- und Gebotszeichen des A+S Netzes (Hauptfahrbahnen)\n" .
+<http://mobilitydata.at/AT-243> <http://purl.org/dc/terms/Format> "" .
+<http://mobilitydata.at/AT-243> <http://purl.org/dc/terms/identifier> "AT-243" .
+<http://mobilitydata.at/AT-243> <http://purl.org/dc/terms/licence> "Lizenz mit kostenloser Nutzung" .
+<http://mobilitydata.at/AT-243> <http://purl.org/dc/terms/location> "" .
+<http://mobilitydata.at/AT-243> <http://purl.org/dc/terms/publisher> <https://www.asfinag.at/> .
+<http://mobilitydata.at/AT-243> <http://purl.org/dc/terms/rightsHolder> <https://www.asfinag.at/> .
+<http://mobilitydata.at/AT-243> <http://purl.org/dc/terms/rights> _:vb11659 .
+<http://mobilitydata.at/AT-243> <http://purl.org/dc/terms/source> _:vb11658 .
+<http://mobilitydata.at/AT-243> <http://purl.org/dc/terms/title> "Ver- und Gebotszeichen der A+S Netzes (Hauptfahrbahnen)" .
+<http://mobilitydata.at/AT-243> <https://w3id.org/mobilitydcat-ap#applicationLayerProtocol> "FTP" .
+<http://mobilitydata.at/AT-243> <https://w3id.org/mobilitydcat-ap#communicationMethod> "pull" .
+<http://mobilitydata.at/AT-243> <https://w3id.org/mobilitydcat-ap#dataModel> "Andere" .
+<http://mobilitydata.at/AT-243> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Dynamic overtaking bans on heavy goods vehicles" .
+<http://mobilitydata.at/AT-243> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Dynamic Speed limits" .
+<http://mobilitydata.at/AT-243> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Dynamic traffic signs and regulations" .
+<http://mobilitydata.at/AT-243> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Other temporary traffic management measures or plans" .
+<http://mobilitydata.at/AT-243> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Permanent access restrictions" .
+<http://mobilitydata.at/AT-243> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Speed limits" .
+<http://mobilitydata.at/AT-243> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Static traffic signs and regulations" .
+<http://mobilitydata.at/AT-243> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Tunnel access conditions" .
+<http://mobilitydata.at/AT-243> <https://w3id.org/mobilitydcat-ap#qualityDescription> "Qualit\u00E4tsbeschreibung\n" .
+<http://mobilitydata.at/AT-243> <https://w3id.org/mobilitydcat-ap#serviceCategory> "Information Service" .
+<http://mobilitydata.at/AT-243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://mobilitydata.at/AT-243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#distribution> .
+<http://mobilitydata.at/AT-243> <http://www.w3.org/ns/dcat#accrualPeriodicity> "Halbj\u00E4hrlich" .
+<http://mobilitydata.at/AT-243> <http://www.w3.org/ns/dcat#distribution> <http://mobilitydata.at/AT-243> .
+<http://mobilitydata.at/AT-247> <http://purl.org/dc/terms/accessURL> "https%3A%2F%2Fdeveloper.tomtom.com%2Fintermediate-traffic-service" .
+<http://mobilitydata.at/AT-247> <http://purl.org/dc/terms/description> "" .
+<http://mobilitydata.at/AT-247> <http://purl.org/dc/terms/description> "We developed TomTom Intermediate Traffic to deliver detailed, real-time traffic content to business customers who integrate it into their own applications. Target customers for TomTom Intermediate Traffic include automotive OEMs, web and application developers and governments. We deliver bulk traffic flow information that provides a comprehensive view of the entire road network. Our real-time traffic products are created by merging multiple data sources, including anonymized measurement data from over 550 million GPS- enabled devices. TomTom Intermediate Traffic Events provides information on the current observed congestion and incidents on roads in all countries where we offer this service. Traffic \u2018incidents\u2019 in this context includes information like closed roads, lane closures, construction zones and accidents andcurrent observed speed on roads in all countries where TomTom live traffic information services are available.\n\n\n" .
+<http://mobilitydata.at/AT-247> <http://purl.org/dc/terms/Format> "" .
+<http://mobilitydata.at/AT-247> <http://purl.org/dc/terms/identifier> "AT-247" .
+<http://mobilitydata.at/AT-247> <http://purl.org/dc/terms/licence> "Nutzungsvertrag mit Nutzungsgeb\u00FChr" .
+<http://mobilitydata.at/AT-247> <http://purl.org/dc/terms/location> "" .
+<http://mobilitydata.at/AT-247> <http://purl.org/dc/terms/publisher> <https://www.tomtom.com/> .
+<http://mobilitydata.at/AT-247> <http://purl.org/dc/terms/rightsHolder> <http://mobilitydata.at> .
+<http://mobilitydata.at/AT-247> <http://purl.org/dc/terms/rights> _:vb11661 .
+<http://mobilitydata.at/AT-247> <http://purl.org/dc/terms/source> _:vb11660 .
+<http://mobilitydata.at/AT-247> <http://purl.org/dc/terms/title> "TomTom Intermediate Traffic Service" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#applicationLayerProtocol> "HTTP/HTTPS" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#communicationMethod> "pull" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#dataModel> "DATEX II Profile" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Accidents and incidents" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Bridge access conditions" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Bridge closures and access conditions" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Current travel times" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Direction of travel on reversible lanes" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Dynamic access information" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Dynamic overtaking bans on heavy goods vehicles" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Dynamic Speed limits" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Dynamic traffic signs and regulations" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Expected delays" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Lane closures and access conditions" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Location and length of queues" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Long-term road works" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Other temporary traffic management measures or plans" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Other traffic regulations" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Permanent access restrictions" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Poor road conditions" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Predicted travel times" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Real-time traffic data" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road closures and access conditions" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road events and conditions" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road weather conditions" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road work information" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Short-term road works" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Speed" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Speed limits" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Static traffic signs and regulations" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Traffic circulation plans" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Traffic volume" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Tunnel access conditions" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Tunnel closures and access conditions" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Waiting time at border crossings to non-EU Member States" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#qualityDescription> "Our real-time traffic products are created by merging multiple data sources, including anonymized measurement data from over 550 million GPS-enabled devices. TomTom has quality mechanisms in place via our Fusion Engine to validate information. \n" .
+<http://mobilitydata.at/AT-247> <https://w3id.org/mobilitydcat-ap#serviceCategory> "Information Service" .
+<http://mobilitydata.at/AT-247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://mobilitydata.at/AT-247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#distribution> .
+<http://mobilitydata.at/AT-247> <http://www.w3.org/ns/dcat#accrualPeriodicity> "1min" .
+<http://mobilitydata.at/AT-247> <http://www.w3.org/ns/dcat#distribution> <http://mobilitydata.at/AT-247> .
+<http://mobilitydata.at/AT-257> <http://purl.org/dc/terms/accessURL> "https%3A%2F%2Fapi.e-control.at%2Fcharge%2F1.0%2Fswagger-ui.html%3Furls.primaryName%3Dpublic-api%23%2F" .
+<http://mobilitydata.at/AT-257> <http://purl.org/dc/terms/description> "Datex 2 v3.2 -> Get the status of all the sites, stations and charging points\n\n \n\n \n" .
+<http://mobilitydata.at/AT-257> <http://purl.org/dc/terms/description> "E-Control Ladestellenverzeichnis \u2013 eine Initiative des Bundesministerium Nachhaltigkeit und Tourismus entsprechend \u00A7 3(5) Bundesgesetz zur Festlegung einheitlicher Standards beim Infrastrukturaufbau f\u00FCr alternative Kraftstoffe.\nUnter www.ladestellen.at k\u00F6nnen sich Verbraucher zu einem bestimmten Standort die n\u00E4chstgelegenen zehn \u00F6ffentlichen Stromladestellen anzeigen lassen. Die Ladestellen erscheinen auf einer Karte und werden jeweils nach Entfernung (Luftlinie) aufgelistet sortiert. Au\u00DFerdem zeigt das E-Control Ladestellenverzeichnis zu jeder Ladestelle und den dort vorhandenen Ladepunkten weitere Informationen, wie Steckertypen, Ladeleistung, Zahlungsoptionen etc.\n" .
+<http://mobilitydata.at/AT-257> <http://purl.org/dc/terms/Format> "" .
+<http://mobilitydata.at/AT-257> <http://purl.org/dc/terms/Format> "UTF-8" .
+<http://mobilitydata.at/AT-257> <http://purl.org/dc/terms/identifier> "AT-257" .
+<http://mobilitydata.at/AT-257> <http://purl.org/dc/terms/licence> "Nutzungsvertrag mit kostenloser Nutzung" .
+<http://mobilitydata.at/AT-257> <http://purl.org/dc/terms/location> "" .
+<http://mobilitydata.at/AT-257> <http://purl.org/dc/terms/publisher> <http://mobilitydata.at/www.e-control.at> .
+<http://mobilitydata.at/AT-257> <http://purl.org/dc/terms/rightsHolder> <http://mobilitydata.at/www.e-control.at> .
+<http://mobilitydata.at/AT-257> <http://purl.org/dc/terms/rights> _:vb11663 .
+<http://mobilitydata.at/AT-257> <http://purl.org/dc/terms/source> _:vb11662 .
+<http://mobilitydata.at/AT-257> <http://purl.org/dc/terms/title> "Ladestellenverzeichnis der E-Control (nationales Ladepunkteregister)" .
+<http://mobilitydata.at/AT-257> <https://w3id.org/mobilitydcat-ap#applicationLayerProtocol> "HTTP/HTTPS" .
+<http://mobilitydata.at/AT-257> <https://w3id.org/mobilitydcat-ap#communicationMethod> "pull" .
+<http://mobilitydata.at/AT-257> <https://w3id.org/mobilitydcat-ap#dataModel> "DATEX II Profile" .
+<http://mobilitydata.at/AT-257> <https://w3id.org/mobilitydcat-ap#grammar> "XSD" .
+<http://mobilitydata.at/AT-257> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Availability of charging points for electric vehicles" .
+<http://mobilitydata.at/AT-257> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Availability of filling stations" .
+<http://mobilitydata.at/AT-257> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Filling and charging stations" .
+<http://mobilitydata.at/AT-257> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Location and conditions of charging points" .
+<http://mobilitydata.at/AT-257> <https://w3id.org/mobilitydcat-ap#qualityDescription> "Die Betreiber von \u00F6ffentlich zug\u00E4nglichen Ladepunkten sind gesetzlich verpflichtet, deren Standorte in das Ladestellenverzeichnis zu melden (\u00A7 3(5) Bundesgesetz zur Festlegung einheitlicher Standards beim Infrastrukturaufbau f\u00FCr alternative Kraftstoffe ). Obligatorisch ist dabei lediglich der Standort zu melden. Alle \u00FCbrigen Attribute, die das Verzeichnis vorsieht, sind optional. \n\nEine Abmeldepflicht f\u00FCr nicht mehr oder zeitweise nicht in Betrieb befindliche Ladepunkte und Ladestellen sieht das Gesetz explizit nicht vor. Die E-Control versucht hier durch halbj\u00E4hrliche, obligatorische Best\u00E4tigungsabfragen zu den gemeldeten Stationen, die Daten aktuell zu halten.\n" .
+<http://mobilitydata.at/AT-257> <https://w3id.org/mobilitydcat-ap#serviceCategory> "Information Service" .
+<http://mobilitydata.at/AT-257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://mobilitydata.at/AT-257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#distribution> .
+<http://mobilitydata.at/AT-257> <http://www.w3.org/ns/dcat#accrualPeriodicity> "Bei \u00C4nderung" .
+<http://mobilitydata.at/AT-257> <http://www.w3.org/ns/dcat#distribution> <http://mobilitydata.at/AT-257> .
+<http://mobilitydata.at/AT-263> <http://purl.org/dc/terms/accessURL> "https%3A%2F%2Fcontentportal.asfinag.at%2Fdata" .
+<http://mobilitydata.at/AT-263> <http://purl.org/dc/terms/description> "" .
+<http://mobilitydata.at/AT-263> <http://purl.org/dc/terms/description> "Ereignisdaten auf dem \u00F6sterreichischen Autobahn- und Schnellstra\u00DFennetz\nals RSS-Feed" .
+<http://mobilitydata.at/AT-263> <http://purl.org/dc/terms/Format> "" .
+<http://mobilitydata.at/AT-263> <http://purl.org/dc/terms/identifier> "AT-263" .
+<http://mobilitydata.at/AT-263> <http://purl.org/dc/terms/licence> "Kein(e) Lizenz und kein Vertrag" .
+<http://mobilitydata.at/AT-263> <http://purl.org/dc/terms/location> "" .
+<http://mobilitydata.at/AT-263> <http://purl.org/dc/terms/publisher> <https://www.asfinag.at/> .
+<http://mobilitydata.at/AT-263> <http://purl.org/dc/terms/rightsHolder> <https://www.asfinag.at/> .
+<http://mobilitydata.at/AT-263> <http://purl.org/dc/terms/rights> _:vb11665 .
+<http://mobilitydata.at/AT-263> <http://purl.org/dc/terms/source> _:vb11664 .
+<http://mobilitydata.at/AT-263> <http://purl.org/dc/terms/title> "ASFINAG Ereignisse RSS-Feed" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#applicationLayerProtocol> "RSS" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#communicationMethod> "push" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#dataModel> "Andere" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Accidents and incidents" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Bridge access conditions" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Bridge closures and access conditions" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Current travel times" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Direction of travel on reversible lanes" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Dynamic overtaking bans on heavy goods vehicles" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Dynamic Speed limits" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Dynamic traffic signs and regulations" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Expected delays" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Lane closures and access conditions" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Location and length of queues" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Long-term road works" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Other temporary traffic management measures or plans" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Other traffic regulations" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Permanent access restrictions" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Poor road conditions" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Predicted travel times" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Real-time traffic data" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road closures and access conditions" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road events and conditions" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road weather conditions" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Road work information" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Short-term road works" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Speed" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Speed limits" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Static traffic signs and regulations" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Traffic circulation plans" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Traffic data at border crossings to third countries" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Traffic volume" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Tunnel access conditions" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Tunnel closures and access conditions" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Waiting time at border crossings to non-EU Member States" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#qualityDescription> "24x7 Betrieb, 10 Minuten Takt, qualit\u00E4tsgesichert durch spezialisiertes Personal" .
+<http://mobilitydata.at/AT-263> <https://w3id.org/mobilitydcat-ap#serviceCategory> "Information Service" .
+<http://mobilitydata.at/AT-263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://mobilitydata.at/AT-263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#distribution> .
+<http://mobilitydata.at/AT-263> <http://www.w3.org/ns/dcat#accrualPeriodicity> "15 min" .
+<http://mobilitydata.at/AT-263> <http://www.w3.org/ns/dcat#distribution> <http://mobilitydata.at/AT-263> .
+<http://mobilitydata.at/AT-266> <http://purl.org/dc/terms/accessURL> "https%3A%2F%2Fdata.oebb.at%2Fde%2Fdatensaetze%7Esoll-fahrplan-gtfs%7E" .
+<http://mobilitydata.at/AT-266> <http://purl.org/dc/terms/description> "" .
+<http://mobilitydata.at/AT-266> <http://purl.org/dc/terms/description> "Die Soll-Fahrplandaten von den \u00D6BB beinhalten die Verkehre der \u00D6BB-Personenverkehr AG, eigenwirtschaftlicher Verkehre der City Air Terminal Betriebsgesellschaft m.b.H. und der Montafonerbahn AG im einheitlichen GTFS Format.\n\nDetailbeschreibungen zum Soll Fahrplan-Format finden Sie hier: \n\nhttps://gtfs.org/documentation/overview/\n\nSoll Fahrplan der \u00D6BB Z\u00FCge im Format NeTEx\n\nFahrplandaten der \u00D6BB-Personenverkehr AG werden im NeTEx Format in Kooperation mit den Mobilit\u00E4tsverb\u00FCnden \u00D6sterreich unter folgendem Link ver\u00F6ffentlicht: \n\nhttps://data.mobilitaetsverbuende.at/de/data-sets" .
+<http://mobilitydata.at/AT-266> <http://purl.org/dc/terms/Format> "" .
+<http://mobilitydata.at/AT-266> <http://purl.org/dc/terms/Format> "implizit" .
+<http://mobilitydata.at/AT-266> <http://purl.org/dc/terms/identifier> "AT-266" .
+<http://mobilitydata.at/AT-266> <http://purl.org/dc/terms/licence> "Lizenz mit kostenloser Nutzung" .
+<http://mobilitydata.at/AT-266> <http://purl.org/dc/terms/location> "" .
+<http://mobilitydata.at/AT-266> <http://purl.org/dc/terms/publisher> <http://mobilitydata.at/www.oebb.at> .
+<http://mobilitydata.at/AT-266> <http://purl.org/dc/terms/rightsHolder> <http://mobilitydata.at/www.oebb.at> .
+<http://mobilitydata.at/AT-266> <http://purl.org/dc/terms/rights> _:vb11667 .
+<http://mobilitydata.at/AT-266> <http://purl.org/dc/terms/source> _:vb11666 .
+<http://mobilitydata.at/AT-266> <http://purl.org/dc/terms/title> "Soll Fahrplan GTFS" .
+<http://mobilitydata.at/AT-266> <https://w3id.org/mobilitydcat-ap#applicationLayerProtocol> "HTTP/HTTPS" .
+<http://mobilitydata.at/AT-266> <https://w3id.org/mobilitydcat-ap#communicationMethod> "push" .
+<http://mobilitydata.at/AT-266> <https://w3id.org/mobilitydcat-ap#dataModel> "Andere" .
+<http://mobilitydata.at/AT-266> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Connection links" .
+<http://mobilitydata.at/AT-266> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Hours of operation" .
+<http://mobilitydata.at/AT-266> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Operational calendar" .
+<http://mobilitydata.at/AT-266> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Scheduled Public transport" .
+<http://mobilitydata.at/AT-266> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Timetables static" .
+<http://mobilitydata.at/AT-266> <https://w3id.org/mobilitydcat-ap#qualityDescription> "Die Fahrplandaten beinhalten die \u00D6BB-Z\u00FCge. " .
+<http://mobilitydata.at/AT-266> <https://w3id.org/mobilitydcat-ap#serviceCategory> "Information Service" .
+<http://mobilitydata.at/AT-266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://mobilitydata.at/AT-266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#distribution> .
+<http://mobilitydata.at/AT-266> <http://www.w3.org/ns/dcat#accrualPeriodicity> "Bei \u00C4nderung" .
+<http://mobilitydata.at/AT-266> <http://www.w3.org/ns/dcat#distribution> <http://mobilitydata.at/AT-266> .
+<http://mobilitydata.at/AT-269> <http://purl.org/dc/terms/accessURL> "https%3A%2F%2Ffiles.austriatech.at%2Fd%2F33971b2d51a348a5958d%2F" .
+<http://mobilitydata.at/AT-269> <http://purl.org/dc/terms/description> "Die \u00D6V-G\u00FCteklassen analysieren \u00F6sterreichweit die Erreichbarkeit eines Standorts mit fahrplangebundenem \u00D6ffentlichen Verkehr. Der Datensatz umfasst zwei Elemente: die Haltestellenkategorie (Kategorisierung nach Verkehrsmittel und Bedienintervall) und die fu\u00DFl\u00E4ufige Erreichbarkeit der Haltestelle (Distanzklassen). Die Kombination beider Faktoren bestimmt die \u00D6V-GK eines Standorts. \n\nStichtage: Werktag &amp; Pfingstdienstag\nUpdate: J\u00E4hrlich seit 2016 (aktuell 2024)\nMehr Infos &amp; Haftungsausschluss: https://www.oerok.gv.at/raum/themen/raumordnung-und-mobilitaet\n\nDie Bedarfsverkehr-G\u00FCteklassen sind ein \u00F6sterreichweit einheitliches Modell zur r\u00E4umlichen Darstellung der Erschlie\u00DFungsqualit\u00E4t von Standorten und Gebieten durch Bedarfsverkehre, die von den Bundesl\u00E4ndern ausgew\u00E4hlt wurden. Sie dienen als eigenst\u00E4ndiger Layer und erg\u00E4nzen die fahrplangebundenen \u00D6V-G\u00FCteklassen." .
+<http://mobilitydata.at/AT-269> <http://purl.org/dc/terms/description> "\u00D6V-G\u00FCteklassen\n\nShapefiles:\n\n1) Ein Punkteshapefile mit den kategorisierten Haltestellen\n2) Die berechneten Fl\u00E4chen der \u00D6V-G\u00FCteklassen\n3) Die mit den Fl\u00E4chen der \u00D6V-G\u00FCteklassen verschnittenen 100m-Rasterzellen\n\n\nBedarfsverkehr-G\u00FCteklassen\n\n2 GeoPackages und 1 Excel Tabelle:\n\n1) Auflistung der \u00FCbermittelten Bedarfsverkehr Anbieter, ausgef\u00FCllter Kriterienkatalog und Bestimmung der Konformit\u00E4t zu Kriterienkatalog\n\n2) Punkt-Geometrie mit allen Haltepunkten der Kriterienkatalog konformen Bedarfsverkehre bzw. Adresspunkten der komplement\u00E4ren Bedarfsverkehre\n\n3) Polygon-Geometrie mit den Fl\u00E4chen der Bedarfsverkehr G\u00FCteklassen bzw. mit den Fl\u00E4chen welche die komplement\u00E4ren Bedarfsverkehre versorgen\n" .
+<http://mobilitydata.at/AT-269> <http://purl.org/dc/terms/Format> "" .
+<http://mobilitydata.at/AT-269> <http://purl.org/dc/terms/identifier> "AT-269" .
+<http://mobilitydata.at/AT-269> <http://purl.org/dc/terms/licence> "Kein(e) Lizenz und kein Vertrag" .
+<http://mobilitydata.at/AT-269> <http://purl.org/dc/terms/location> "" .
+<http://mobilitydata.at/AT-269> <http://purl.org/dc/terms/publisher> <http://mobilitydata.at/www.austriatech.at> .
+<http://mobilitydata.at/AT-269> <http://purl.org/dc/terms/rightsHolder> <http://mobilitydata.at> .
+<http://mobilitydata.at/AT-269> <http://purl.org/dc/terms/rights> _:vb11669 .
+<http://mobilitydata.at/AT-269> <http://purl.org/dc/terms/source> _:vb11668 .
+<http://mobilitydata.at/AT-269> <http://purl.org/dc/terms/title> "\u00D6V-G\u00FCteklassen" .
+<http://mobilitydata.at/AT-269> <https://w3id.org/mobilitydcat-ap#applicationLayerProtocol> "Andere" .
+<http://mobilitydata.at/AT-269> <https://w3id.org/mobilitydcat-ap#communicationMethod> "pull" .
+<http://mobilitydata.at/AT-269> <https://w3id.org/mobilitydcat-ap#dataModel> "Andere" .
+<http://mobilitydata.at/AT-269> <https://w3id.org/mobilitydcat-ap#grammar> "Andere" .
+<http://mobilitydata.at/AT-269> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Not included in the Delegated Regulations" .
+<http://mobilitydata.at/AT-269> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Other Categories" .
+<http://mobilitydata.at/AT-269> <https://w3id.org/mobilitydcat-ap#qualityDescription> "Datenbasis (\u00D6V-GK): GIP; VAO; MV\u00D6\nDatenbasis (BV-GK): GIP; Bundesl\u00E4nder/Verb\u00FCnde, INSPIRE Adressregister" .
+<http://mobilitydata.at/AT-269> <https://w3id.org/mobilitydcat-ap#serviceCategory> "Information Service" .
+<http://mobilitydata.at/AT-269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://mobilitydata.at/AT-269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#distribution> .
+<http://mobilitydata.at/AT-269> <http://www.w3.org/ns/dcat#accrualPeriodicity> "J\u00E4hrlich" .
+<http://mobilitydata.at/AT-269> <http://www.w3.org/ns/dcat#distribution> <http://mobilitydata.at/AT-269> .
+<http://mobilitydata.at/AT-274> <http://purl.org/dc/terms/accessURL> "https%3A%2F%2Fmobilitydata.gv.at%2Fkontakt%2F519%2FDatenerhebung%2520Personenverkehr%2520%28Verkehrsmodell%2520%25C3%2596sterreich%29" .
+<http://mobilitydata.at/AT-274> <http://purl.org/dc/terms/description> "" .
+<http://mobilitydata.at/AT-274> <http://purl.org/dc/terms/description> "Im Rahmen der Neuerstellung des \"Verkehrsmodell \u00D6sterreich\" und des Projekts \"Verkehrsprognose \u00D6sterreich 2040+\" (Auftraggeber: Bundesministerium f\u00FCr Klimaschutz, Umwelt, Energie, Mobilit\u00E4t, Innovation und Technologie (BMK), ASFINAG Service GmbH und \u00D6BB-Infrastruktur AG) wurde eine Erhebung zum Verkehrsverhalten der \u00F6sterreichischen Wohnsitzbev\u00F6lkerung nach dem Stated-Preference-Ansatz durchgef\u00FChrt. Das Hauptergebnis sind SP-Daten f\u00FCr die Sch\u00E4tzung diskreter Entscheidungsmodelle zur Modellierung des Personenverkehrs in \u00D6sterreich. Die Gesamt-Nettostichprobe enth\u00E4lt ca. 1.850 Personen mit SP-Interviews sowie Teilstichproben nach Tourzweck- und Verkehrsmittel-Segmenten. Der Datensatz umfasst die Meta- und Mikrodaten als Excel-File.\n\nWeitere Informationen finden Sie unter: www.verkehrsmodell.at" .
+<http://mobilitydata.at/AT-274> <http://purl.org/dc/terms/Format> "" .
+<http://mobilitydata.at/AT-274> <http://purl.org/dc/terms/identifier> "AT-274" .
+<http://mobilitydata.at/AT-274> <http://purl.org/dc/terms/licence> "Nutzungsvertrag mit kostenloser Nutzung" .
+<http://mobilitydata.at/AT-274> <http://purl.org/dc/terms/location> "" .
+<http://mobilitydata.at/AT-274> <http://purl.org/dc/terms/publisher> <http://mobilitydata.at/www.austriatech.at> .
+<http://mobilitydata.at/AT-274> <http://purl.org/dc/terms/rightsHolder> <http://mobilitydata.at> .
+<http://mobilitydata.at/AT-274> <http://purl.org/dc/terms/rights> _:vb11671 .
+<http://mobilitydata.at/AT-274> <http://purl.org/dc/terms/source> _:vb11670 .
+<http://mobilitydata.at/AT-274> <http://purl.org/dc/terms/title> "Datenerhebung Personenverkehr (Verkehrsmodell \u00D6sterreich)" .
+<http://mobilitydata.at/AT-274> <https://w3id.org/mobilitydcat-ap#applicationLayerProtocol> "Andere" .
+<http://mobilitydata.at/AT-274> <https://w3id.org/mobilitydcat-ap#communicationMethod> "pull" .
+<http://mobilitydata.at/AT-274> <https://w3id.org/mobilitydcat-ap#dataModel> "Andere" .
+<http://mobilitydata.at/AT-274> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Not included in the Delegated Regulations" .
+<http://mobilitydata.at/AT-274> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Other Categories" .
+<http://mobilitydata.at/AT-274> <https://w3id.org/mobilitydcat-ap#qualityDescription> "Erhebungsdesign auf Basis KOMOD Handbuch. Pretest wurde mit 600 Haushalten (brutto) durchgef\u00FChrt" .
+<http://mobilitydata.at/AT-274> <https://w3id.org/mobilitydcat-ap#serviceCategory> "Information Service" .
+<http://mobilitydata.at/AT-274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://mobilitydata.at/AT-274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#distribution> .
+<http://mobilitydata.at/AT-274> <http://www.w3.org/ns/dcat#accrualPeriodicity> "Ein Mal Lieferung" .
+<http://mobilitydata.at/AT-274> <http://www.w3.org/ns/dcat#distribution> <http://mobilitydata.at/AT-274> .
+<http://mobilitydata.at/AT-275> <http://purl.org/dc/terms/accessURL> "https%3A%2F%2Fmobilitydata.gv.at%2Fen%2Fcontact%2F519%2FSP%2520survey%2520for%2520passenger%2520transport%2520%28Transport%2520Model%2520Austria%29" .
+<http://mobilitydata.at/AT-275> <http://purl.org/dc/terms/description> "" .
+<http://mobilitydata.at/AT-275> <http://purl.org/dc/terms/description> "Within the scope of the implementation of the new Transport Model Austria and the project, Transport Forecast Austria 2040+ (commissioned by the Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK), ASFINAG Service GmbH und \u00D6BB-Infrastruktur AG) a stated preference survey was conducted on the mobility behaviour of the Austrian resident population. The main result is SP data for the estimation of discrete decision models for modelling passenger transport in Austria. The total net sample contains about 1.850 persons with SP interviews as well as subsamples segments for tour purpose and means of transport. The data set includes the meta and micro data as Excel files.\nFurther information can be found at: www.verkehrsmodell.at" .
+<http://mobilitydata.at/AT-275> <http://purl.org/dc/terms/Format> "" .
+<http://mobilitydata.at/AT-275> <http://purl.org/dc/terms/identifier> "AT-275" .
+<http://mobilitydata.at/AT-275> <http://purl.org/dc/terms/licence> "Nutzungsvertrag mit kostenloser Nutzung" .
+<http://mobilitydata.at/AT-275> <http://purl.org/dc/terms/location> "" .
+<http://mobilitydata.at/AT-275> <http://purl.org/dc/terms/publisher> <http://mobilitydata.at/www.austriatech.at> .
+<http://mobilitydata.at/AT-275> <http://purl.org/dc/terms/rightsHolder> <http://mobilitydata.at> .
+<http://mobilitydata.at/AT-275> <http://purl.org/dc/terms/rights> _:vb11536 .
+<http://mobilitydata.at/AT-275> <http://purl.org/dc/terms/source> _:vb11535 .
+<http://mobilitydata.at/AT-275> <http://purl.org/dc/terms/title> "SP survey for passenger transport (Transport Model Austria)" .
+<http://mobilitydata.at/AT-275> <https://w3id.org/mobilitydcat-ap#applicationLayerProtocol> "Andere" .
+<http://mobilitydata.at/AT-275> <https://w3id.org/mobilitydcat-ap#communicationMethod> "pull" .
+<http://mobilitydata.at/AT-275> <https://w3id.org/mobilitydcat-ap#dataModel> "Andere" .
+<http://mobilitydata.at/AT-275> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Not included in the Delegated Regulations" .
+<http://mobilitydata.at/AT-275> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Other Categories" .
+<http://mobilitydata.at/AT-275> <https://w3id.org/mobilitydcat-ap#qualityDescription> "Survey design was based on the KOMOD manual. Pretest was conducted with 600 households (gross)" .
+<http://mobilitydata.at/AT-275> <https://w3id.org/mobilitydcat-ap#serviceCategory> "Information Service" .
+<http://mobilitydata.at/AT-275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://mobilitydata.at/AT-275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#distribution> .
+<http://mobilitydata.at/AT-275> <http://www.w3.org/ns/dcat#accrualPeriodicity> "Ein Mal Lieferung" .
+<http://mobilitydata.at/AT-275> <http://www.w3.org/ns/dcat#distribution> <http://mobilitydata.at/AT-275> .
+<http://mobilitydata.at/AT-292> <http://purl.org/dc/terms/accessURL> "http%3A%2F%2Fcarsharing.link" .
+<http://mobilitydata.at/AT-292> <http://purl.org/dc/terms/description> "" .
+<http://mobilitydata.at/AT-292> <http://purl.org/dc/terms/description> "Independent and standardized data interface for interoperable car sharing. Enables car sharing operators to network with each other, even if different telematics and booking software is used.\nAlso enables connection for pure mobility providers without their own fleet - MaaS.\n\nThe interface is typically implemented by the software provider in its product (telematics and booking system, apps) - the service is thus available to the operators using this software.\n\nIn addition to the technical interface, carsharing.link offers an organizational framework with which fleet operators can market their mobility offers in a coordinated manner to mobility providers.\n\nRefactoring took place in the 2023 project year. Feedback from booking software providers and international aspects were incorporated.\n\nThe roaming network is currently undergoing an extended field test in the Upper Austrian central region.\nRoll-out and application throughout Austria is planned for 2024." .
+<http://mobilitydata.at/AT-292> <http://purl.org/dc/terms/Format> "" .
+<http://mobilitydata.at/AT-292> <http://purl.org/dc/terms/Format> "UTF-8" .
+<http://mobilitydata.at/AT-292> <http://purl.org/dc/terms/identifier> "AT-292" .
+<http://mobilitydata.at/AT-292> <http://purl.org/dc/terms/licence> "Nutzungsvertrag mit Nutzungsgeb\u00FChr" .
+<http://mobilitydata.at/AT-292> <http://purl.org/dc/terms/location> "" .
+<http://mobilitydata.at/AT-292> <http://purl.org/dc/terms/publisher> <https://www.carsharing.link> .
+<http://mobilitydata.at/AT-292> <http://purl.org/dc/terms/rightsHolder> <http://mobilitydata.at> .
+<http://mobilitydata.at/AT-292> <http://purl.org/dc/terms/rights> _:vb11538 .
+<http://mobilitydata.at/AT-292> <http://purl.org/dc/terms/source> _:vb11537 .
+<http://mobilitydata.at/AT-292> <http://purl.org/dc/terms/title> "Roaming / full-service interface for car sharing" .
+<http://mobilitydata.at/AT-292> <https://w3id.org/mobilitydcat-ap#applicationLayerProtocol> "HTTP/HTTPS" .
+<http://mobilitydata.at/AT-292> <https://w3id.org/mobilitydcat-ap#communicationMethod> "pull" .
+<http://mobilitydata.at/AT-292> <https://w3id.org/mobilitydcat-ap#dataModel> "Andere" .
+<http://mobilitydata.at/AT-292> <https://w3id.org/mobilitydcat-ap#grammar> "Open API" .
+<http://mobilitydata.at/AT-292> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Car-sharing Availability" .
+<http://mobilitydata.at/AT-292> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Car-sharing locations and stations" .
+<http://mobilitydata.at/AT-292> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Payment methods" .
+<http://mobilitydata.at/AT-292> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Sharing and Hiring Services" .
+<http://mobilitydata.at/AT-292> <https://w3id.org/mobilitydcat-ap#qualityDescription> "The data interface has been tested using an adapter and the booking functions have been in field testing since 2020.\nDirect integration into various car sharing booking platforms by the respective software suppliers is currently pending." .
+<http://mobilitydata.at/AT-292> <https://w3id.org/mobilitydcat-ap#serviceCategory> "Information Service" .
+<http://mobilitydata.at/AT-292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://mobilitydata.at/AT-292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#distribution> .
+<http://mobilitydata.at/AT-292> <http://www.w3.org/ns/dcat#accrualPeriodicity> "Bei \u00C4nderung" .
+<http://mobilitydata.at/AT-292> <http://www.w3.org/ns/dcat#distribution> <http://mobilitydata.at/AT-292> .
+<http://mobilitydata.at/AT-502> <http://purl.org/dc/terms/accessURL> "https%3A%2F%2Ftwincityliner.com%2Fde" .
+<http://mobilitydata.at/AT-502> <http://purl.org/dc/terms/description> "Flyer mit notwendigen Informationen auf Flyer online als pdf. Datei und auf Papierform erh\u00E4ltich.\n" .
+<http://mobilitydata.at/AT-502> <http://purl.org/dc/terms/description> "Schnellkatamaran Verbindung auf der Donau zwischen Wien und Bratislava." .
+<http://mobilitydata.at/AT-502> <http://purl.org/dc/terms/Format> "" .
+<http://mobilitydata.at/AT-502> <http://purl.org/dc/terms/identifier> "AT-502" .
+<http://mobilitydata.at/AT-502> <http://purl.org/dc/terms/licence> "Kein(e) Lizenz und kein Vertrag" .
+<http://mobilitydata.at/AT-502> <http://purl.org/dc/terms/location> "" .
+<http://mobilitydata.at/AT-502> <http://purl.org/dc/terms/publisher> <http://mobilitydata.at/www.twincityliner.com> .
+<http://mobilitydata.at/AT-502> <http://purl.org/dc/terms/rightsHolder> <http://mobilitydata.at/www.twincityliner.com> .
+<http://mobilitydata.at/AT-502> <http://purl.org/dc/terms/rights> _:vb11540 .
+<http://mobilitydata.at/AT-502> <http://purl.org/dc/terms/source> _:vb11539 .
+<http://mobilitydata.at/AT-502> <http://purl.org/dc/terms/title> "Speed katamaran Twin City Liner Danube Vienna-Bratislava" .
+<http://mobilitydata.at/AT-502> <https://w3id.org/mobilitydcat-ap#applicationLayerProtocol> "Andere" .
+<http://mobilitydata.at/AT-502> <https://w3id.org/mobilitydcat-ap#communicationMethod> "pull" .
+<http://mobilitydata.at/AT-502> <https://w3id.org/mobilitydcat-ap#dataModel> "Andere" .
+<http://mobilitydata.at/AT-502> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Common fare products" .
+<http://mobilitydata.at/AT-502> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Hours of operation" .
+<http://mobilitydata.at/AT-502> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Passenger classes" .
+<http://mobilitydata.at/AT-502> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Purchase information" .
+<http://mobilitydata.at/AT-502> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Scheduled Public transport" .
+<http://mobilitydata.at/AT-502> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Stop facilities location and features" .
+<http://mobilitydata.at/AT-502> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Timetables static" .
+<http://mobilitydata.at/AT-502> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Transport operators" .
+<http://mobilitydata.at/AT-502> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Vehicle details" .
+<http://mobilitydata.at/AT-502> <https://w3id.org/mobilitydcat-ap#mobilityTheme> "Waterways and water bodies" .
+<http://mobilitydata.at/AT-502> <https://w3id.org/mobilitydcat-ap#qualityDescription> "Linienfahrplan, wird j\u00E4hrlich upgedated " .
+<http://mobilitydata.at/AT-502> <https://w3id.org/mobilitydcat-ap#serviceCategory> "Information service" .
+<http://mobilitydata.at/AT-502> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://mobilitydata.at/AT-502> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#distribution> .
+<http://mobilitydata.at/AT-502> <http://www.w3.org/ns/dcat#accrualPeriodicity> "J\u00E4hrlich" .
+<http://mobilitydata.at/AT-502> <http://www.w3.org/ns/dcat#distribution> <http://mobilitydata.at/AT-502> .
+<http://mobilitydata.at> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://mobilitydata.at> <http://xmlns.com/foaf/0.1/mbox> "" .
+<http://mobilitydata.at> <http://xmlns.com/foaf/0.1/name> "" .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://purl.org/dc/terms/publisher> <https://mobilitydata.gv.at> .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://purl.org/dc/terms/spatial> _:vb11534 .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://purl.org/dc/terms/spatial> _:vb11631 .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://purl.org/dc/terms/title> "mobilitydata.gv.at" .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Catalog> .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://www.w3.org/ns/dcat#Dataset> <http://mobilitydata.at/AT-171> .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://www.w3.org/ns/dcat#Dataset> <http://mobilitydata.at/AT-189> .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://www.w3.org/ns/dcat#Dataset> <http://mobilitydata.at/AT-190> .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://www.w3.org/ns/dcat#Dataset> <http://mobilitydata.at/AT-191> .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://www.w3.org/ns/dcat#Dataset> <http://mobilitydata.at/AT-192> .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://www.w3.org/ns/dcat#Dataset> <http://mobilitydata.at/AT-193> .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://www.w3.org/ns/dcat#Dataset> <http://mobilitydata.at/AT-194> .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://www.w3.org/ns/dcat#Dataset> <http://mobilitydata.at/AT-220> .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://www.w3.org/ns/dcat#Dataset> <http://mobilitydata.at/AT-229> .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://www.w3.org/ns/dcat#Dataset> <http://mobilitydata.at/AT-230> .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://www.w3.org/ns/dcat#Dataset> <http://mobilitydata.at/AT-232> .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://www.w3.org/ns/dcat#Dataset> <http://mobilitydata.at/AT-234> .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://www.w3.org/ns/dcat#Dataset> <http://mobilitydata.at/AT-235> .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://www.w3.org/ns/dcat#Dataset> <http://mobilitydata.at/AT-243> .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://www.w3.org/ns/dcat#Dataset> <http://mobilitydata.at/AT-247> .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://www.w3.org/ns/dcat#Dataset> <http://mobilitydata.at/AT-257> .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://www.w3.org/ns/dcat#Dataset> <http://mobilitydata.at/AT-263> .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://www.w3.org/ns/dcat#Dataset> <http://mobilitydata.at/AT-266> .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://www.w3.org/ns/dcat#Dataset> <http://mobilitydata.at/AT-269> .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://www.w3.org/ns/dcat#Dataset> <http://mobilitydata.at/AT-274> .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://www.w3.org/ns/dcat#Dataset> <http://mobilitydata.at/AT-275> .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://www.w3.org/ns/dcat#Dataset> <http://mobilitydata.at/AT-292> .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://www.w3.org/ns/dcat#Dataset> <http://mobilitydata.at/AT-502> .
+<http://mobilitydata.at/Mobility_Access_Point_Austria> <http://xmlns.com/foaf/0.1/homepage> <https://mobilitydata.gv.at> .
+<http://mobilitydata.at/oe3.orf.at> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://mobilitydata.at/oe3.orf.at> <http://xmlns.com/foaf/0.1/mbox> "thomas.ruthner@orf.at" .
+<http://mobilitydata.at/oe3.orf.at> <http://xmlns.com/foaf/0.1/name> "ORF/OE3 Verkehrsredaktion" .
+<http://mobilitydata.at/www.austriatech.at> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://mobilitydata.at/www.austriatech.at> <http://xmlns.com/foaf/0.1/mbox> "lucas.huebner-weiss@austriatech.at" .
+<http://mobilitydata.at/www.austriatech.at> <http://xmlns.com/foaf/0.1/name> "Team Datenanalyse und Modelle (AustriaTech)" .
+<http://mobilitydata.at/www.e-control.at> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://mobilitydata.at/www.e-control.at> <http://xmlns.com/foaf/0.1/mbox> "daniel.hantigk@e-control.at" .
+<http://mobilitydata.at/www.e-control.at> <http://xmlns.com/foaf/0.1/name> "E-Control" .
+<http://mobilitydata.at/www.oeamtc.at/verkehr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://mobilitydata.at/www.oeamtc.at/verkehr> <http://xmlns.com/foaf/0.1/mbox> "helmut.beigl@oeamtc.at" .
+<http://mobilitydata.at/www.oeamtc.at/verkehr> <http://xmlns.com/foaf/0.1/name> "\u00D6AMTC" .
+<http://mobilitydata.at/www.oebb.at> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://mobilitydata.at/www.oebb.at> <http://xmlns.com/foaf/0.1/mbox> "bernhard.burger@oebb.at" .
+<http://mobilitydata.at/www.oebb.at> <http://xmlns.com/foaf/0.1/name> "\u00D6BB" .
+<http://mobilitydata.at/www.twincityliner.com> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://mobilitydata.at/www.twincityliner.com> <http://xmlns.com/foaf/0.1/mbox> "eva.badr@centraldanube.at" .
+<http://mobilitydata.at/www.twincityliner.com> <http://xmlns.com/foaf/0.1/name> "Central Danube Region Marketing & Development GmbH" .
+<https://mobilitydata.gv.at> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<https://mobilitydata.gv.at> <http://xmlns.com/foaf/0.1/mbox> "admin@mobilitaetsdaten.gv.at" .
+<https://mobilitydata.gv.at> <http://xmlns.com/foaf/0.1/name> "mobilitydata.gv.at" .
+<https://mobilitydata.gv.at> <http://xmlns.com/foaf/0.1/name> "NAP Admin" .
+<https://www.asfinag.at/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<https://www.asfinag.at/> <http://xmlns.com/foaf/0.1/mbox> "gottfried.allmer@asfinag.at" .
+<https://www.asfinag.at/> <http://xmlns.com/foaf/0.1/name> "ASFINAG" .
+<https://www.carsharing.link> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<https://www.carsharing.link> <http://xmlns.com/foaf/0.1/mbox> "mobilitaetsdaten.gv.at@carsharing.link" .
+<https://www.carsharing.link> <http://xmlns.com/foaf/0.1/name> "carsharing.link - Roamingportal" .
+<https://www.tomtom.com/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<https://www.tomtom.com/> <http://xmlns.com/foaf/0.1/mbox> "privacy@tomtom.com" .
+<https://www.tomtom.com/> <http://xmlns.com/foaf/0.1/name> "TomTom" .
+_:vb11534 <http://purl.org/dc/terms/identifier> <http://publications.europa.eu/resource/authority/country/AUT> .
+_:vb11534 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/Location> .
+_:vb11535 <http://purl.org/dc/terms/created> "2020-08-18CEST08:03:09"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11535 <http://purl.org/dc/terms/language> "de" .
+_:vb11535 <http://purl.org/dc/terms/modified> "2025-02-18CET14:39:34"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11535 <http://purl.org/dc/terms/PeriodOfTime> <http://example.org/period> .
+_:vb11535 <http://purl.org/dc/terms/publisher> <https://mobilitydata.gv.at> .
+_:vb11535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#CatalogRecord> .
+_:vb11536 <http://purl.org/dc/terms/RightsStatement> "" .
+_:vb11537 <http://purl.org/dc/terms/created> "2021-11-17CET11:37:38"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11537 <http://purl.org/dc/terms/language> "de" .
+_:vb11537 <http://purl.org/dc/terms/modified> "2025-06-26CEST08:53:07"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11537 <http://purl.org/dc/terms/PeriodOfTime> <http://example.org/period> .
+_:vb11537 <http://purl.org/dc/terms/publisher> <https://mobilitydata.gv.at> .
+_:vb11537 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#CatalogRecord> .
+_:vb11538 <http://purl.org/dc/terms/RightsStatement> "When used (booking), transaction fees are incurred, which cover the operating costs. The operation is designed without profit intention.\n\nFor pure information services, own open data interfaces will be offered free of charge in the future.\n" .
+_:vb11539 <http://purl.org/dc/terms/created> "2024-11-14CET14:34:10"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11539 <http://purl.org/dc/terms/language> "de" .
+_:vb11539 <http://purl.org/dc/terms/modified> "2024-11-14CET16:51:57"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11539 <http://purl.org/dc/terms/PeriodOfTime> <http://example.org/period> .
+_:vb11539 <http://purl.org/dc/terms/publisher> <https://mobilitydata.gv.at> .
+_:vb11539 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#CatalogRecord> .
+_:vb11540 <http://purl.org/dc/terms/RightsStatement> "" .
+_:vb11631 <http://purl.org/dc/terms/identifier> <http://publications.europa.eu/resource/authority/country/AUT> .
+_:vb11631 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/Location> .
+_:vb11632 <http://purl.org/dc/terms/created> "2016-09-15CEST17:44:54"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11632 <http://purl.org/dc/terms/language> "de" .
+_:vb11632 <http://purl.org/dc/terms/modified> "2025-02-14CET10:31:18"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11632 <http://purl.org/dc/terms/PeriodOfTime> <http://example.org/period> .
+_:vb11632 <http://purl.org/dc/terms/publisher> <https://mobilitydata.gv.at> .
+_:vb11632 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#CatalogRecord> .
+_:vb11633 <http://purl.org/dc/terms/RightsStatement> "" .
+_:vb11634 <http://purl.org/dc/terms/created> "2016-11-18CET13:28:48"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11634 <http://purl.org/dc/terms/language> "de" .
+_:vb11634 <http://purl.org/dc/terms/modified> "2025-02-14CET10:31:40"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11634 <http://purl.org/dc/terms/PeriodOfTime> <http://example.org/period> .
+_:vb11634 <http://purl.org/dc/terms/publisher> <https://mobilitydata.gv.at> .
+_:vb11634 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#CatalogRecord> .
+_:vb11635 <http://purl.org/dc/terms/RightsStatement> "" .
+_:vb11636 <http://purl.org/dc/terms/created> "2016-11-18CET13:49:29"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11636 <http://purl.org/dc/terms/language> "de" .
+_:vb11636 <http://purl.org/dc/terms/modified> "2025-02-14CET10:32:05"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11636 <http://purl.org/dc/terms/PeriodOfTime> <http://example.org/period> .
+_:vb11636 <http://purl.org/dc/terms/publisher> <https://mobilitydata.gv.at> .
+_:vb11636 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#CatalogRecord> .
+_:vb11637 <http://purl.org/dc/terms/RightsStatement> "" .
+_:vb11638 <http://purl.org/dc/terms/created> "2016-11-18CET13:54:59"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11638 <http://purl.org/dc/terms/language> "de" .
+_:vb11638 <http://purl.org/dc/terms/modified> "2025-02-14CET10:32:20"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11638 <http://purl.org/dc/terms/PeriodOfTime> <http://example.org/period> .
+_:vb11638 <http://purl.org/dc/terms/publisher> <https://mobilitydata.gv.at> .
+_:vb11638 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#CatalogRecord> .
+_:vb11639 <http://purl.org/dc/terms/RightsStatement> "" .
+_:vb11640 <http://purl.org/dc/terms/created> "2016-11-18CET14:00:36"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11640 <http://purl.org/dc/terms/language> "de" .
+_:vb11640 <http://purl.org/dc/terms/modified> "2025-02-14CET10:32:39"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11640 <http://purl.org/dc/terms/PeriodOfTime> <http://example.org/period> .
+_:vb11640 <http://purl.org/dc/terms/publisher> <https://mobilitydata.gv.at> .
+_:vb11640 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#CatalogRecord> .
+_:vb11641 <http://purl.org/dc/terms/RightsStatement> "" .
+_:vb11642 <http://purl.org/dc/terms/created> "2016-11-18CET14:09:58"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11642 <http://purl.org/dc/terms/language> "de" .
+_:vb11642 <http://purl.org/dc/terms/modified> "2025-02-14CET10:32:52"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11642 <http://purl.org/dc/terms/PeriodOfTime> <http://example.org/period> .
+_:vb11642 <http://purl.org/dc/terms/publisher> <https://mobilitydata.gv.at> .
+_:vb11642 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#CatalogRecord> .
+_:vb11643 <http://purl.org/dc/terms/RightsStatement> "" .
+_:vb11644 <http://purl.org/dc/terms/created> "2016-11-18CET14:12:37"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11644 <http://purl.org/dc/terms/language> "de" .
+_:vb11644 <http://purl.org/dc/terms/modified> "2025-02-14CET10:33:03"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11644 <http://purl.org/dc/terms/PeriodOfTime> <http://example.org/period> .
+_:vb11644 <http://purl.org/dc/terms/publisher> <https://mobilitydata.gv.at> .
+_:vb11644 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#CatalogRecord> .
+_:vb11645 <http://purl.org/dc/terms/RightsStatement> "" .
+_:vb11646 <http://purl.org/dc/terms/created> "2019-04-09CEST12:43:11"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11646 <http://purl.org/dc/terms/language> "de" .
+_:vb11646 <http://purl.org/dc/terms/modified> "2025-03-20CET12:51:20"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11646 <http://purl.org/dc/terms/PeriodOfTime> <http://example.org/period> .
+_:vb11646 <http://purl.org/dc/terms/publisher> <https://mobilitydata.gv.at> .
+_:vb11646 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#CatalogRecord> .
+_:vb11647 <http://purl.org/dc/terms/RightsStatement> "wird individuell vertraglich vereinbart\n" .
+_:vb11648 <http://purl.org/dc/terms/created> "2019-04-19CEST13:57:01"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11648 <http://purl.org/dc/terms/language> "de" .
+_:vb11648 <http://purl.org/dc/terms/modified> "2025-10-01CEST12:35:22"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11648 <http://purl.org/dc/terms/PeriodOfTime> <http://example.org/period> .
+_:vb11648 <http://purl.org/dc/terms/publisher> <https://mobilitydata.gv.at> .
+_:vb11648 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#CatalogRecord> .
+_:vb11649 <http://purl.org/dc/terms/RightsStatement> "Datennutzung: Vertragliche Vereinbarung erforderlich, Datensatz kostenpflichtig (Mustervereinbarung als Download)\n" .
+_:vb11650 <http://purl.org/dc/terms/created> "2019-04-19CEST14:03:06"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11650 <http://purl.org/dc/terms/language> "de" .
+_:vb11650 <http://purl.org/dc/terms/modified> "2025-10-01CEST12:37:27"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11650 <http://purl.org/dc/terms/PeriodOfTime> <http://example.org/period> .
+_:vb11650 <http://purl.org/dc/terms/publisher> <https://mobilitydata.gv.at> .
+_:vb11650 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#CatalogRecord> .
+_:vb11651 <http://purl.org/dc/terms/RightsStatement> "Datennutzung: Vertragliche Vereinbarung erforderlich, Datensatz kostenpflichtig (Mustervereinbarung als Download)\n" .
+_:vb11652 <http://purl.org/dc/terms/created> "2019-04-23CEST10:13:50"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11652 <http://purl.org/dc/terms/language> "de" .
+_:vb11652 <http://purl.org/dc/terms/modified> "2025-10-01CEST12:40:31"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11652 <http://purl.org/dc/terms/PeriodOfTime> <http://example.org/period> .
+_:vb11652 <http://purl.org/dc/terms/publisher> <https://mobilitydata.gv.at> .
+_:vb11652 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#CatalogRecord> .
+_:vb11653 <http://purl.org/dc/terms/RightsStatement> "Datennutzung: Vertragliche Vereinbarung erforderlich, Datensatz kostenpflichtig (Mustervereinbarung als Download)\n" .
+_:vb11654 <http://purl.org/dc/terms/created> "2019-04-23CEST13:08:07"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11654 <http://purl.org/dc/terms/language> "de" .
+_:vb11654 <http://purl.org/dc/terms/modified> "2025-10-01CEST12:41:08"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11654 <http://purl.org/dc/terms/PeriodOfTime> <http://example.org/period> .
+_:vb11654 <http://purl.org/dc/terms/publisher> <https://mobilitydata.gv.at> .
+_:vb11654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#CatalogRecord> .
+_:vb11655 <http://purl.org/dc/terms/RightsStatement> "Datennutzung: Vertragliche Vereinbarung erforderlich, Datensatz kostenpflichtig (Mustervereinbarung als Download)\n" .
+_:vb11656 <http://purl.org/dc/terms/created> "2019-04-23CEST13:29:40"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11656 <http://purl.org/dc/terms/language> "de" .
+_:vb11656 <http://purl.org/dc/terms/modified> "2025-10-01CEST12:41:50"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11656 <http://purl.org/dc/terms/PeriodOfTime> <http://example.org/period> .
+_:vb11656 <http://purl.org/dc/terms/publisher> <https://mobilitydata.gv.at> .
+_:vb11656 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#CatalogRecord> .
+_:vb11657 <http://purl.org/dc/terms/RightsStatement> "Datennutzung: Vertragliche Vereinbarung erforderlich, Datensatz kostenpflichtig (Mustervereinbarung als Download)\n" .
+_:vb11658 <http://purl.org/dc/terms/created> "2019-05-17CEST12:12:59"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11658 <http://purl.org/dc/terms/language> "de" .
+_:vb11658 <http://purl.org/dc/terms/modified> "2025-02-14CET10:33:16"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11658 <http://purl.org/dc/terms/PeriodOfTime> <http://example.org/period> .
+_:vb11658 <http://purl.org/dc/terms/publisher> <https://mobilitydata.gv.at> .
+_:vb11658 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#CatalogRecord> .
+_:vb11659 <http://purl.org/dc/terms/RightsStatement> "" .
+_:vb11660 <http://purl.org/dc/terms/created> "2019-07-30CEST15:06:02"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11660 <http://purl.org/dc/terms/language> "en" .
+_:vb11660 <http://purl.org/dc/terms/modified> "2025-01-28CET08:37:01"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11660 <http://purl.org/dc/terms/PeriodOfTime> <http://example.org/period> .
+_:vb11660 <http://purl.org/dc/terms/publisher> <https://mobilitydata.gv.at> .
+_:vb11660 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#CatalogRecord> .
+_:vb11661 <http://purl.org/dc/terms/RightsStatement> "" .
+_:vb11662 <http://purl.org/dc/terms/created> "2019-10-14CEST17:08:52"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11662 <http://purl.org/dc/terms/language> "de" .
+_:vb11662 <http://purl.org/dc/terms/modified> "2025-04-22CEST11:41:37"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11662 <http://purl.org/dc/terms/PeriodOfTime> <http://example.org/period> .
+_:vb11662 <http://purl.org/dc/terms/publisher> <https://mobilitydata.gv.at> .
+_:vb11662 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#CatalogRecord> .
+_:vb11663 <http://purl.org/dc/terms/RightsStatement> "https://admin.ladestellen.at/#/api/registrieren\n" .
+_:vb11664 <http://purl.org/dc/terms/created> "2020-01-08CET17:10:24"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11664 <http://purl.org/dc/terms/language> "de" .
+_:vb11664 <http://purl.org/dc/terms/modified> "2025-02-14CET10:33:26"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11664 <http://purl.org/dc/terms/PeriodOfTime> <http://example.org/period> .
+_:vb11664 <http://purl.org/dc/terms/publisher> <https://mobilitydata.gv.at> .
+_:vb11664 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#CatalogRecord> .
+_:vb11665 <http://purl.org/dc/terms/RightsStatement> "" .
+_:vb11666 <http://purl.org/dc/terms/created> "2020-02-12CET07:35:34"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11666 <http://purl.org/dc/terms/language> "de" .
+_:vb11666 <http://purl.org/dc/terms/modified> "2024-12-30CET15:31:16"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11666 <http://purl.org/dc/terms/PeriodOfTime> <http://example.org/period> .
+_:vb11666 <http://purl.org/dc/terms/publisher> <https://mobilitydata.gv.at> .
+_:vb11666 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#CatalogRecord> .
+_:vb11667 <http://purl.org/dc/terms/RightsStatement> "https://creativecommons.org/licenses/by/4.0/deed.de\n" .
+_:vb11668 <http://purl.org/dc/terms/created> "2020-03-10CET10:43:42"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11668 <http://purl.org/dc/terms/language> "de" .
+_:vb11668 <http://purl.org/dc/terms/modified> "2025-03-25CET14:58:35"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11668 <http://purl.org/dc/terms/PeriodOfTime> <http://example.org/period> .
+_:vb11668 <http://purl.org/dc/terms/publisher> <https://mobilitydata.gv.at> .
+_:vb11668 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#CatalogRecord> .
+_:vb11669 <http://purl.org/dc/terms/RightsStatement> "Datennutzung - Haftungsausschluss unter: https://www.oerok.gv.at/raum/themen/raumordnung-und-mobilitaet\n" .
+_:vb11670 <http://purl.org/dc/terms/created> "2020-08-17CEST08:57:48"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11670 <http://purl.org/dc/terms/language> "de" .
+_:vb11670 <http://purl.org/dc/terms/modified> "2025-02-18CET14:39:34"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:vb11670 <http://purl.org/dc/terms/PeriodOfTime> <http://example.org/period> .
+_:vb11670 <http://purl.org/dc/terms/publisher> <https://mobilitydata.gv.at> .
+_:vb11670 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#CatalogRecord> .
+_:vb11671 <http://purl.org/dc/terms/RightsStatement> "" .
