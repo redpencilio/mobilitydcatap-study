@@ -1,0 +1,97 @@
+====================================================================================================
+MOBILITY DCAT-AP PROPERTY ANALYSIS
+====================================================================================================
+
+Catalog Properties:
+------------------
+| Property (M/R/O)  | http://mobilitydata.at/Mobility_Access_Point_Austria | https://du-portal-ui.dataudveksler.app.vd.dk/ | https://mobilithek.info/ | https://trafficdata.se | https://transportdata.be |
+|-------------------+------------------------------------------------------+-----------------------------------------------+--------------------------+------------------------+--------------------------|
+| description (M)   | 0/1                                                  | 1/1                                           | 1/1                      | 0/1                    | 1/1                      |
+| spatial (M)       | 1/1                                                  | 1/1                                           | 1/1                      | 0/1                    | 1/1                      |
+| homepage (M)      | 1/1                                                  | 0/1                                           | 1/1                      | 1/1                    | 1/1                      |
+| publisher (M)     | 1/1                                                  | 1/1                                           | 1/1                      | 0/1                    | 1/1                      |
+| record (M)        | 0/1                                                  | 1/1                                           | 0/1                      | 0/1                    | 1/1                      |
+| title (M)         | 1/1                                                  | 1/1                                           | 1/1                      | 1/1                    | 1/1                      |
+| language (R)      | 0/1                                                  | 0/1                                           | 0/1                      | 1/1                    | 1/1                      |
+| license (R)       | 0/1                                                  | 0/1                                           | 0/1                      | 0/1                    | 1/1                      |
+| modified (R)      | 0/1                                                  | 0/1                                           | 0/1                      | 1/1                    | 1/1                      |
+| issued (R)        | 0/1                                                  | 0/1                                           | 0/1                      | 0/1                    | 1/1                      |
+| themeTaxonomy (R) | 0/1                                                  | 0/1                                           | 0/1                      | 0/1                    | 1/1                      |
+| dataset (O)       | 0/1                                                  | 1/1                                           | 1/1                      | 1/1                    | 1/1                      |
+| hasPart (O)       | 0/1                                                  | 0/1                                           | 0/1                      | 0/1                    | 0/1                      |
+| identifier (O)    | 0/1                                                  | 0/1                                           | 0/1                      | 0/1                    | 0/1                      |
+| identifier (O)    | 0/1                                                  | 0/1                                           | 0/1                      | 0/1                    | 0/1                      |
+
+Dataset Properties:
+------------------
+| Property (M/R/O)               | http://mobilitydata.at/Mobility_Access_Point_Austria | https://du-portal-ui.dataudveksler.app.vd.dk/ | https://mobilithek.info/ | https://trafficdata.se | https://transportdata.be |
+|--------------------------------+------------------------------------------------------+-----------------------------------------------+--------------------------+------------------------+--------------------------|
+| distribution (M)               | 23/23                                                | 165/165                                       | 20/20                    | 50/50                  | 189/189                  |
+| description (M)                | 23/23                                                | 165/165                                       | 20/20                    | 50/50                  | 189/189                  |
+| accrualPeriodicity (M)         | 0/23                                                 | 0/165                                         | 5/20                     | 50/50                  | 189/189                  |
+| spatial (M)                    | 0/23                                                 | 165/165                                       | 20/20                    | 50/50                  | 189/189                  |
+| mobilityTheme (M)              | 23/23                                                | 151/165                                       | 20/20                    | 49/50                  | 189/189                  |
+| publisher (M)                  | 23/23                                                | 165/165                                       | 20/20                    | 50/50                  | 189/189                  |
+| title (M)                      | 23/23                                                | 165/165                                       | 20/20                    | 50/50                  | 189/189                  |
+| georeferencingMethod (R)       | 0/23                                                 | 79/165                                        | 0/20                     | 0/50                   | 45/189                   |
+| contactPoint (R)               | 0/23                                                 | 165/165                                       | 0/20                     | 50/50                  | 189/189                  |
+| keyword (R)                    | 0/23                                                 | 0/165                                         | 20/20                    | 49/50                  | 0/189                    |
+| networkCoverage (R)            | 0/23                                                 | 0/165                                         | 0/20                     | 49/50                  | 23/189                   |
+| conformsTo (R)                 | 0/23                                                 | 46/165                                        | 0/20                     | 0/50                   | 14/189                   |
+| rightsHolder (R)               | 23/23                                                | 165/165                                       | 4/20                     | 0/50                   | 0/189                    |
+| temporal (R)                   | 0/23                                                 | 0/165                                         | 2/20                     | 0/50                   | 189/189                  |
+| theme (R)                      | 0/23                                                 | 0/165                                         | 20/20                    | 50/50                  | 189/189                  |
+| transportMode (R)              | 0/23                                                 | 0/165                                         | 3/20                     | 14/50                  | 189/189                  |
+| applicableLegislation (O)      | 0/23                                                 | 0/165                                         | 0/20                     | 0/50                   | 0/189                    |
+| assessmentResult (O)           | 0/23                                                 | 0/165                                         | 0/20                     | 0/50                   | 0/189                    |
+| hasVersion (O)                 | 0/23                                                 | 0/165                                         | 0/20                     | 0/50                   | 0/189                    |
+| identifier (O)                 | 23/23                                                | 0/165                                         | 0/20                     | 50/50                  | 189/189                  |
+| intendedInformationService (O) | 0/23                                                 | 0/165                                         | 0/20                     | 0/50                   | 0/189                    |
+| isReferencedBy (O)             | 0/23                                                 | 0/165                                         | 0/20                     | 0/50                   | 0/189                    |
+| isVersionOf (O)                | 0/23                                                 | 0/165                                         | 0/20                     | 0/50                   | 0/189                    |
+| language (O)                   | 0/23                                                 | 0/165                                         | 0/20                     | 50/50                  | 189/189                  |
+| identifier (O)                 | 0/23                                                 | 0/165                                         | 20/20                    | 0/50                   | 0/189                    |
+| relation (O)                   | 0/23                                                 | 0/165                                         | 0/20                     | 0/50                   | 0/189                    |
+| issued (O)                     | 0/23                                                 | 4/165                                         | 0/20                     | 50/50                  | 189/189                  |
+| modified (O)                   | 0/23                                                 | 165/165                                       | 20/20                    | 50/50                  | 189/189                  |
+| versionInfo (O)                | 0/23                                                 | 0/165                                         | 0/20                     | 0/50                   | 0/189                    |
+| versionNotes (O)               | 0/23                                                 | 0/165                                         | 0/20                     | 0/50                   | 0/189                    |
+| hasQualityAnnotation (O)       | 0/23                                                 | 0/165                                         | 19/20                    | 50/50                  | 26/189                   |
+
+Distribution Properties:
+-----------------------
+| Property (M/R/O)             | http://mobilitydata.at/Mobility_Access_Point_Austria | https://du-portal-ui.dataudveksler.app.vd.dk/ | https://mobilithek.info/ | https://trafficdata.se | https://transportdata.be |
+|------------------------------+------------------------------------------------------+-----------------------------------------------+--------------------------+------------------------+--------------------------|
+| accessURL (M)                | 0/23                                                 | 165/165                                       | 76/76                    | 71/71                  | 214/214                  |
+| mobilityDataStandard (M)     | 0/23                                                 | 165/165                                       | 76/76                    | 18/71                  | 214/214                  |
+| format (M)                   | 0/23                                                 | 0/165                                         | 76/76                    | 71/71                  | 214/214                  |
+| rights (M)                   | 23/23                                                | 149/165                                       | 76/76                    | 0/71                   | 214/214                  |
+| applicationLayerProtocol (R) | 23/23                                                | 0/165                                         | 0/76                     | 0/71                   | 214/214                  |
+| description (R)              | 23/23                                                | 0/165                                         | 0/76                     | 61/71                  | 22/214                   |
+| license (R)                  | 0/23                                                 | 0/165                                         | 76/76                    | 71/71                  | 132/214                  |
+| accessService (O)            | 0/23                                                 | 0/165                                         | 0/76                     | 0/71                   | 0/214                    |
+| characterEncoding (O)        | 0/23                                                 | 0/165                                         | 0/76                     | 0/71                   | 117/214                  |
+| communicationMethod (O)      | 23/23                                                | 0/165                                         | 0/76                     | 19/71                  | 155/214                  |
+| dataFormatNotes (O)          | 0/23                                                 | 0/165                                         | 2/76                     | 0/71                   | 51/214                   |
+| downloadURL (O)              | 0/23                                                 | 0/165                                         | 70/76                    | 0/71                   | 33/214                   |
+| grammar (O)                  | 5/23                                                 | 0/165                                         | 0/76                     | 0/71                   | 80/214                   |
+| sample (O)                   | 0/23                                                 | 0/165                                         | 0/76                     | 0/71                   | 0/214                    |
+| temporal (O)                 | 0/23                                                 | 0/165                                         | 3/76                     | 0/71                   | 0/214                    |
+
+CatalogRecord Properties:
+------------------------
+| Property (M/R/O) | http://mobilitydata.at/Mobility_Access_Point_Austria | https://du-portal-ui.dataudveksler.app.vd.dk/ | https://mobilithek.info/ | https://trafficdata.se | https://transportdata.be |
+|------------------+------------------------------------------------------+-----------------------------------------------+--------------------------+------------------------+--------------------------|
+| created (M)      | N/A                                                  | 165/165                                       | N/A                      | N/A                    | 189/189                  |
+| language (M)     | N/A                                                  | 0/165                                         | N/A                      | N/A                    | 189/189                  |
+| modified (M)     | N/A                                                  | 165/165                                       | N/A                      | N/A                    | 189/189                  |
+| primaryTopic (M) | N/A                                                  | 165/165                                       | N/A                      | N/A                    | 189/189                  |
+| publisher (O)    | N/A                                                  | 165/165                                       | N/A                      | N/A                    | 0/189                    |
+| source (O)       | N/A                                                  | 0/165                                         | N/A                      | N/A                    | 0/189                    |
+
+Legend:
+(M) = Mandatory property
+(R) = Recommended property
+(O) = Optional property
+N/A = No entities of this type in catalog
+- = Property not checked
