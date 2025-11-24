@@ -1,0 +1,430 @@
+* Controlled vocabulary analysis
+
+** summary
+*** Catalog Properties:
+| Property      | http://mobilitydata.at/Mobility_Access_Point_Austria | https://du-portal-ui.dataudveksler.app.vd.dk/ | https://mobilithek.info/ | https://trafficdata.se | https://transportdata.be |
+|---------------+------------------------------------------------------+-----------------------------------------------+--------------------------+------------------------+--------------------------|
+| language      | 0% (0)                                               | 0% (0)                                        | 0% (0)                   | 100% (1V)              | 100% (4C)                |
+| publisher     | 100% (1C)                                            | 100% (165F)                                   | 100% (2V)                | 0% (0)                 | 100% (1C)                |
+| spatial       | 100% (2V)                                            | 100% (165F)                                   | 100% (2V)                | 0% (0)                 | 100% (2V)                |
+| themeTaxonomy | 0% (0)                                               | 0% (0)                                        | 0% (0)                   | 0% (0)                 | 100% (1C)                |
+
+*** Dataset Properties:
+| Property                   | http://mobilitydata.at/Mobility_Access_Point_Austria | https://du-portal-ui.dataudveksler.app.vd.dk/ | https://mobilithek.info/ | https://trafficdata.se | https://transportdata.be |
+|----------------------------+------------------------------------------------------+-----------------------------------------------+--------------------------+------------------------+--------------------------|
+| accrualPeriodicity         | 0% (0)                                               | 0% (0)                                        | 25% (2C)                 | 100% (3C)              | 100% (11C)               |
+| conformsTo                 | 0% (0)                                               | 28% (2C)                                      | 0% (0)                   | 0% (0)                 | 7% (3C)                  |
+| language                   | 0% (0)                                               | 0% (0)                                        | 0% (0)                   | 100% (2C)              | 100% (4C)                |
+| publisher                  | 100% (9C)                                            | 100% (165F)                                   | 100% (30F)               | 100% (6C)              | 100% (70C)               |
+| spatial                    | 0% (0)                                               | 100% (165F)                                   | 100% (30F)               | 100% (22C)             | 100% (415F)              |
+| theme                      | 0% (0)                                               | 0% (0)                                        | 100% (3C)                | 100% (1C)              | 100% (1C)                |
+| georeferencingMethod       | 0% (0)                                               | 48% (4C)                                      | 0% (0)                   | 0% (0)                 | 24% (4C)                 |
+| intendedInformationService | 0% (0)                                               | 0% (0)                                        | 0% (0)                   | 0% (0)                 | 0% (0)                   |
+| mobilityTheme              | 100% (72F)                                           | 92% (59C)                                     | 100% (5C)                | 98% (72C)              | 100% (53C)               |
+| networkCoverage            | 0% (0)                                               | 0% (0)                                        | 0% (0)                   | 98% (10C)              | 12% (7C)                 |
+| transportMode              | 0% (0)                                               | 0% (0)                                        | 15% (3C)                 | 28% (18C)              | 100% (23C)               |
+
+*** Distribution Properties:
+| Property                 | http://mobilitydata.at/Mobility_Access_Point_Austria | https://du-portal-ui.dataudveksler.app.vd.dk/ | https://mobilithek.info/ | https://trafficdata.se | https://transportdata.be |
+|--------------------------+------------------------------------------------------+-----------------------------------------------+--------------------------+------------------------+--------------------------|
+| format                   | 0% (0)                                               | 0% (0)                                        | 100% (8C)                | 100% (5V)              | 100% (13C)               |
+| language                 | 0% (0)                                               | 0% (0)                                        | 0% (0)                   | 0% (0)                 | 0% (0)                   |
+| publisher                | 100% (9C)                                            | 0% (0)                                        | 0% (0)                   | 0% (0)                 | 0% (0)                   |
+| applicationLayerProtocol | 100% (5V)                                            | 0% (0)                                        | 0% (0)                   | 0% (0)                 | 100% (3C)                |
+| communicationMethod      | 100% (2V)                                            | 0% (0)                                        | 0% (0)                   | 27% (3C)               | 72% (2C)                 |
+| grammar                  | 22% (3V)                                             | 0% (0)                                        | 0% (0)                   | 0% (0)                 | 37% (4C)                 |
+| mobilityDataStandard     | 0% (0)                                               | 100% (9C)                                     | 100% (76C)               | 25% (4C)               | 100% (7C)                |
+
+Legend: Y% (XC) = Y% of entities have property, X unique values, Codelist | Y% (XV) = Y% have property, X unique values, Controlled | Y% (XF) = Y% have property, X unique values, Free text
+
+** EXTENDED VOCABULARY ANALYSIS
+
+*** Catalog Properties:
+
+  Mobility_Access_Point_Austria:
+    publisher (Codelist (URI-based)):
+       1. https://mobilitydata.gv.at (used 1 times)
+
+    spatial (Controlled vocabulary):
+       1. nodeID://b11631 (used 1 times)
+       2. nodeID://b11534 (used 1 times)
+
+
+  mobilithek.info:
+    publisher (Controlled vocabulary):
+       1. nodeID://b11837 (used 1 times)
+       2. nodeID://b11511 (used 1 times)
+
+    spatial (Controlled vocabulary):
+       1. nodeID://b11836 (used 1 times)
+       2. nodeID://b11512 (used 1 times)
+
+
+  trafficdata.se:
+    language (Controlled vocabulary):
+       1. en (used 1 times)
+
+
+  transportdata.be:
+    themeTaxonomy (Codelist (URI-based)):
+       1. http://publications.europa.eu/resource/authority/data-theme (used 1 times)
+
+    language (Codelist (URI-based)):
+       1. http://publications.europa.eu/resource/authority/language/NLD (used 1 times)
+       2. http://publications.europa.eu/resource/authority/language/DEU (used 1 times)
+       3. http://publications.europa.eu/resource/authority/language/ENG (used 1 times)
+       4. http://publications.europa.eu/resource/authority/language/FRA (used 1 times)
+
+    publisher (Codelist (URI-based)):
+       1. https://transportdata.be/organization/6df0157c-6022-408f-8c7d-991b9c79466f (used 1 times)
+
+    spatial (Controlled vocabulary):
+       1. nodeID://b10004 (used 1 times)
+       2. nodeID://b10794 (used 1 times)
+
+
+*** Dataset Properties:
+
+  Mobility_Access_Point_Austria:
+    publisher (Codelist (URI-based)):
+       1. https://www.asfinag.at/ (used 9 times)
+       2. http://mobilitydata.at/www.oeamtc.at/verkehr (used 5 times)
+       3. http://mobilitydata.at/www.austriatech.at (used 3 times)
+       4. http://mobilitydata.at/www.oebb.at (used 1 times)
+       5. http://mobilitydata.at/www.twincityliner.com (used 1 times)
+       6. http://mobilitydata.at/oe3.orf.at (used 1 times)
+       7. http://mobilitydata.at/www.e-control.at (used 1 times)
+       8. https://www.carsharing.link (used 1 times)
+       9. https://www.tomtom.com/ (used 1 times)
+
+
+  du-portal-ui.dataudveksler.app.vd.dk:
+    mobilityTheme (Codelist (URI-based)):
+       1. https://w3id.org/mobilitydcat-ap/mobility-theme/other (used 41 times)
+       2. https://w3id.org/mobilitydcat-ap/mobility-theme/static-road-network-data (used 30 times)
+       3. https://w3id.org/mobilitydcat-ap/mobility-theme/road-events-and-conditions (used 23 times)
+       4. https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-scheduled-tr... (used 18 times)
+       5. https://w3id.org/mobilitydcat-ap/mobility-theme/static-traffic-signs-and-regu... (used 17 times)
+       6. https://w3id.org/mobilitydcat-ap/mobility-theme/road-weather-conditions (used 16 times)
+       7. https://w3id.org/mobilitydcat-ap/mobility-theme/geometry (used 12 times)
+       8. https://w3id.org/mobilitydcat-ap/mobility-theme/disruptions-delays-cancellations (used 11 times)
+       9. https://w3id.org/mobilitydcat-ap/mobility-theme/real-time-estimated-departure... (used 11 times)
+      10. https://w3id.org/mobilitydcat-ap/mobility-theme/road-work-information (used 9 times)
+      ... and 49 more values
+
+    conformsTo (Codelist (URI-based)):
+       1. http://www.opengis.net/def/crs/EPSG/0/25832 (used 36 times)
+       2. http://www.opengis.net/def/crs/EPSG/0/4326 (used 10 times)
+
+    georeferencingMethod (Codelist (URI-based)):
+       1. https://w3id.org/mobilitydcat-ap/georeferencing-method/other (used 62 times)
+       2. https://w3id.org/mobilitydcat-ap/georeferencing-method/geocoordinates (used 15 times)
+       3. https://w3id.org/mobilitydcat-ap/georeferencing-method/alert-c (used 1 times)
+       4. https://w3id.org/mobilitydcat-ap/georeferencing-method/iso-19148 (used 1 times)
+
+
+  mobilithek.info:
+    mobilityTheme (Codelist (URI-based)):
+       1. https://w3id.org/mobilitydcat-ap/mobility-theme#other (used 22 times)
+       2. https://w3id.org/mobilitydcat-ap/mobility-theme#air-and-space-travel (used 4 times)
+       3. https://w3id.org/mobilitydcat-ap/mobility-theme#cycle-network-data (used 2 times)
+       4. https://w3id.org/mobilitydcat-ap/mobility-theme#filling-and-charging-stations (used 2 times)
+       5. https://w3id.org/mobilitydcat-ap/mobility-theme#location-and-conditions-of-ch... (used 2 times)
+
+    theme (Codelist (URI-based)):
+       1. http://publications.europa.eu/resource/authority/data-theme/TRAN (used 30 times)
+       2. http://publications.europa.eu/resource/authority/data-theme/ENVI (used 4 times)
+       3. http://publications.europa.eu/resource/authority/data-theme/TECH (used 4 times)
+
+    accrualPeriodicity (Codelist (URI-based)):
+       1. http://publications.europa.eu/resource/authority/frequency/OTHER (used 6 times)
+       2. http://publications.europa.eu/resource/authority/frequency/IRREG (used 4 times)
+
+    transportMode (Codelist (URI-based)):
+       1. https://w3id.org/mobilitydcat-ap/transport-mode#air (used 4 times)
+       2. https://w3id.org/mobilitydcat-ap/transport-mode#long-distance-rail (used 2 times)
+       3. https://w3id.org/mobilitydcat-ap/transport-mode#regional-and-local-rail (used 2 times)
+
+
+  trafficdata.se:
+    mobilityTheme (Codelist (URI-based)):
+       1. https://w3id.org/mobilitydcat-ap/mobility-theme/road-events-and-conditions (used 12 times)
+       2. https://w3id.org/mobilitydcat-ap/mobility-theme/speed (used 5 times)
+       3. https://w3id.org/mobilitydcat-ap/mobility-theme/current-travel-times (used 5 times)
+       4. https://w3id.org/mobilitydcat-ap/mobility-theme/stop-facilities-location-and-... (used 5 times)
+       5. http://trafficdata.se/ (used 4 times)
+       6. https://w3id.org/mobilitydcat-ap/mobility-theme/timetables-static (used 4 times)
+       7. https://w3id.org/mobilitydcat-ap/mobility-theme/stop-facilities-accessibility... (used 4 times)
+       8. https://w3id.org/mobilitydcat-ap/mobility-theme/vehicle-details (used 4 times)
+       9. https://w3id.org/mobilitydcat-ap/mobility-theme/planned-interchanges-between-... (used 4 times)
+      10. https://w3id.org/mobilitydcat-ap/mobility-theme/long-term-road-works (used 4 times)
+      ... and 62 more values
+
+    theme (Codelist (URI-based)):
+       1. http://publications.europa.eu/resource/authority/data-theme/TRAN (used 50 times)
+
+    accrualPeriodicity (Codelist (URI-based)):
+       1. http://publications.europa.eu/mdr/authority/frequency/UPDATE_CONT (used 35 times)
+       2. http://publications.europa.eu/resource/authority/frequency/DAILY (used 10 times)
+       3. http://publications.europa.eu/resource/authority/frequency/1MIN (used 5 times)
+
+    language (Codelist (URI-based)):
+       1. http://publications.europa.eu/resource/authority/language/ENG (used 46 times)
+       2. http://publications.europa.eu/resource/authority/language/SWE (used 4 times)
+
+    publisher (Codelist (URI-based)):
+       1. https://trafficdata.se/organization/0a3a8800-a545-4538-a2ab-e7a11246ff9b (used 38 times)
+       2. https://trafficdata.se/organization/0fc2a99f-e88b-4666-937e-8e2cdc573037 (used 5 times)
+       3. https://trafficdata.se/organization/9ed8049f-deae-4ffb-9fac-a73a40a12447 (used 3 times)
+       4. https://trafficdata.se/organization/4d7d46c9-6991-4b6d-9e90-eccc4f10f187 (used 2 times)
+       5. https://trafficdata.se/organization/fffd2bd7-c49b-4d0c-b121-7e58f35361e9 (used 1 times)
+       6. https://trafficdata.se/organization/9a66b6f3-c7ed-415e-a653-0396ca1bbdfe (used 1 times)
+
+    spatial (Codelist (URI-based)):
+       1. http://sws.geonames.org/2661886 (used 41 times)
+       2. http://sws.geonames.org/2673722 (used 9 times)
+       3. http://www.geonames.org/3337386 (used 8 times)
+       4. http://www.geonames.org/3337385 (used 4 times)
+       5. http://www.geonames.org/2664292 (used 4 times)
+       6. http://www.geonames.org/2685867 (used 4 times)
+       7. http://www.geonames.org/2664415 (used 2 times)
+       8. http://www.geonames.org/2699050 (used 2 times)
+       9. http://www.geonames.org/2712411 (used 2 times)
+      10. http://www.geonames.org/2664179 (used 2 times)
+      ... and 12 more values
+
+    networkCoverage (Codelist (URI-based)):
+       1. https://w3id.org/mobilitydcat-ap/network-coverage/motorways (used 44 times)
+       2. https://w3id.org/mobilitydcat-ap/network-coverage/state-roads-or-federal-roads (used 38 times)
+       3. https://w3id.org/mobilitydcat-ap/network-coverage/regional-roads (used 18 times)
+       4. https://w3id.org/mobilitydcat-ap/network-coverage/urban-and-local-roads (used 14 times)
+       5. https://w3id.org/mobilitydcat-ap/network-coverage/other-public-transport-network (used 5 times)
+       6. https://w3id.org/mobilitydcat-ap/network-coverage/rail-network (used 4 times)
+       7. https://w3id.org/mobilitydcat-ap/network-coverage/metro-subway-tram-or-light-... (used 4 times)
+       8. https://w3id.org/mobilitydcat-ap/network-coverage/waterways (used 3 times)
+       9. https://w3id.org/mobilitydcat-ap/network-coverage/other (used 2 times)
+      10. https://w3id.org/mobilitydcat-ap/network-coverage/air-network (used 1 times)
+
+    transportMode (Codelist (URI-based)):
+       1. https://w3id.org/mobilitydcat-ap/transport-mode/bus (used 10 times)
+       2. https://w3id.org/mobilitydcat-ap/transport-mode/car (used 9 times)
+       3. https://w3id.org/mobilitydcat-ap/transport-mode/shuttle-bus (used 8 times)
+       4. https://w3id.org/mobilitydcat-ap/transport-mode/taxi (used 8 times)
+       5. https://w3id.org/mobilitydcat-ap/transport-mode/truck (used 8 times)
+       6. https://w3id.org/mobilitydcat-ap/transport-mode/shuttle-ferry (used 5 times)
+       7. https://w3id.org/mobilitydcat-ap/transport-mode/long-distance-coach (used 5 times)
+       8. https://w3id.org/mobilitydcat-ap/transport-mode/motorcycle (used 4 times)
+       9. https://w3id.org/mobilitydcat-ap/transport-mode/long-distance-rail (used 4 times)
+      10. https://w3id.org/mobilitydcat-ap/transport-mode/metro-subway-train (used 4 times)
+      ... and 8 more values
+
+
+  transportdata.be:
+    mobilityTheme (Codelist (URI-based)):
+       1. https://w3id.org/mobilitydcat-ap/mobility-theme/other (used 48 times)
+       2. https://w3id.org/mobilitydcat-ap/mobility-theme/sharing-and-hiring-services (used 42 times)
+       3. https://w3id.org/mobilitydcat-ap/mobility-theme/public-transport-scheduled-tr... (used 38 times)
+       4. https://w3id.org/mobilitydcat-ap/mobility-theme/transport-operators (used 29 times)
+       5. https://w3id.org/mobilitydcat-ap/mobility-theme/general-information-for-trip-... (used 23 times)
+       6. https://w3id.org/mobilitydcat-ap/mobility-theme/parking-service-and-rest-area... (used 16 times)
+       7. https://w3id.org/mobilitydcat-ap/mobility-theme/timetables-static (used 13 times)
+       8. https://w3id.org/mobilitydcat-ap/mobility-theme/static-road-network-data (used 13 times)
+       9. https://w3id.org/mobilitydcat-ap/mobility-theme/filling-and-charging-stations (used 10 times)
+      10. https://w3id.org/mobilitydcat-ap/mobility-theme/real-time-traffic-data (used 10 times)
+      ... and 43 more values
+
+    theme (Codelist (URI-based)):
+       1. http://publications.europa.eu/resource/authority/data-theme/TRAN (used 189 times)
+
+    accrualPeriodicity (Codelist (URI-based)):
+       1. http://publications.europa.eu/resource/authority/frequency/IRREG (used 104 times)
+       2. http://publications.europa.eu/resource/authority/frequency/MONTHLY (used 28 times)
+       3. http://publications.europa.eu/resource/authority/frequency/1MIN (used 18 times)
+       4. http://publications.europa.eu/resource/authority/frequency/ANNUAL (used 13 times)
+       5. http://publications.europa.eu/resource/authority/frequency/DAILY (used 12 times)
+       6. http://publications.europa.eu/resource/authority/frequency/ANNUAL_2 (used 5 times)
+       7. http://publications.europa.eu/resource/authority/frequency/QUARTERLY (used 3 times)
+       8. http://publications.europa.eu/resource/authority/frequency/WEEKLY (used 3 times)
+       9. http://publications.europa.eu/resource/authority/frequency/12HRS (used 1 times)
+      10. http://publications.europa.eu/resource/authority/frequency/HOURLY (used 1 times)
+      ... and 1 more values
+
+    conformsTo (Codelist (URI-based)):
+       1. http://www.opengis.net/def/crs/EPSG/0/31370 (used 8 times)
+       2. http://www.opengis.net/def/crs/EPSG/0/4326 (used 5 times)
+       3. http://www.opengis.net/def/crs/EPSG/0/4258 (used 1 times)
+
+    language (Codelist (URI-based)):
+       1. http://publications.europa.eu/resource/authority/language/ENG (used 127 times)
+       2. http://publications.europa.eu/resource/authority/language/NLD (used 89 times)
+       3. http://publications.europa.eu/resource/authority/language/FRA (used 72 times)
+       4. http://publications.europa.eu/resource/authority/language/DEU (used 3 times)
+
+    publisher (Codelist (URI-based)):
+       1. https://transportdata.be/organization/fe150c96-ce8b-4c91-adfd-cbaaff49a664 (used 30 times)
+       2. https://transportdata.be/organization/2a624b63-e4c3-4a68-a44a-3a2714ed6d2f (used 11 times)
+       3. https://transportdata.be/organization/82e1025c-4db4-4a9c-95f6-e474db508f3f (used 9 times)
+       4. https://transportdata.be/organization/79689f1a-5310-4a12-aea7-7af15235e4b9 (used 9 times)
+       5. https://transportdata.be/organization/c34fa256-6ece-465f-b074-7b5b161bb9b8 (used 9 times)
+       6. https://transportdata.be/organization/afe8ff35-ca50-46e2-be98-d19b0fc650b9 (used 8 times)
+       7. https://transportdata.be/organization/1c24bea0-4c07-477c-9162-52efc6cb672c (used 8 times)
+       8. https://transportdata.be/organization/19f23fcf-eac7-4f54-a557-1e975ae9ba20 (used 6 times)
+       9. https://transportdata.be/organization/84d5205e-2131-466d-96ba-e1c9b33b305a (used 6 times)
+      10. https://transportdata.be/organization/95854801-05e2-49ff-9b48-c58c04eb24f5 (used 4 times)
+      ... and 60 more values
+
+    georeferencingMethod (Codelist (URI-based)):
+       1. https://w3id.org/mobilitydcat-ap/georeferencing-method/other (used 26 times)
+       2. https://w3id.org/mobilitydcat-ap/georeferencing-method/geocoordinates (used 16 times)
+       3. https://w3id.org/mobilitydcat-ap/georeferencing-method/alert-c (used 2 times)
+       4. https://w3id.org/mobilitydcat-ap/georeferencing-method/iso-19148 (used 2 times)
+
+    networkCoverage (Codelist (URI-based)):
+       1. https://w3id.org/mobilitydcat-ap/network-coverage/motorways (used 11 times)
+       2. https://w3id.org/mobilitydcat-ap/network-coverage/other (used 6 times)
+       3. https://w3id.org/mobilitydcat-ap/network-coverage/state-roads-or-federal-roads (used 2 times)
+       4. https://w3id.org/mobilitydcat-ap/network-coverage/waterways (used 1 times)
+       5. https://w3id.org/mobilitydcat-ap/network-coverage/rail-network (used 1 times)
+       6. https://w3id.org/https://w3id.org/mobilitydcat-ap/network-coverage/urban-and-... (used 1 times)
+       7. https://w3id.org/mobilitydcat-ap/network-coverage/regional-roads (used 1 times)
+
+    transportMode (Codelist (URI-based)):
+       1. https://w3id.org/mobilitydcat-ap/transport-mode/car (used 51 times)
+       2. https://w3id.org/mobilitydcat-ap/transport-mode/bus (used 39 times)
+       3. https://w3id.org/mobilitydcat-ap/transport-mode/long-distance-rail (used 37 times)
+       4. https://w3id.org/mobilitydcat-ap/transport-mode/truck (used 36 times)
+       5. https://w3id.org/mobilitydcat-ap/transport-mode/motorcycle (used 34 times)
+       6. https://w3id.org/mobilitydcat-ap/transport-mode/bicycle (used 31 times)
+       7. https://w3id.org/mobilitydcat-ap/transport-mode/tram-light-rail (used 26 times)
+       8. https://w3id.org/mobilitydcat-ap/transport-mode/car-sharing (used 25 times)
+       9. https://w3id.org/mobilitydcat-ap/transport-mode/bike-sharing (used 24 times)
+      10. https://w3id.org/mobilitydcat-ap/transport-mode/taxi (used 18 times)
+      ... and 13 more values
+
+
+*** Distribution Properties:
+
+  Mobility_Access_Point_Austria:
+    publisher (Codelist (URI-based)):
+       1. https://www.asfinag.at/ (used 9 times)
+       2. http://mobilitydata.at/www.oeamtc.at/verkehr (used 5 times)
+       3. http://mobilitydata.at/www.austriatech.at (used 3 times)
+       4. http://mobilitydata.at/www.oebb.at (used 1 times)
+       5. http://mobilitydata.at/www.twincityliner.com (used 1 times)
+       6. http://mobilitydata.at/oe3.orf.at (used 1 times)
+       7. http://mobilitydata.at/www.e-control.at (used 1 times)
+       8. https://www.carsharing.link (used 1 times)
+       9. https://www.tomtom.com/ (used 1 times)
+
+    grammar (Controlled vocabulary):
+       1. Open API (used 2 times)
+       2. Andere (used 2 times)
+       3. XSD (used 1 times)
+
+    applicationLayerProtocol (Controlled vocabulary):
+       1. HTTP/HTTPS (used 13 times)
+       2. Andere (used 5 times)
+       3. HTTP/ HTTPS-SOAP (used 2 times)
+       4. RSS (used 2 times)
+       5. FTP (used 1 times)
+
+    communicationMethod (Controlled vocabulary):
+       1. pull (used 21 times)
+       2. push (used 2 times)
+
+
+  du-portal-ui.dataudveksler.app.vd.dk:
+    mobilityDataStandard (Codelist (URI-based)):
+       1. https://w3id.org/mobilitydcat-ap/mobility-data-standard/other (used 79 times)
+       2. https://w3id.org/mobilitydcat-ap/mobility-data-standard/datex-II (used 35 times)
+       3. https://w3id.org/mobilitydcat-ap/mobility-data-standard/inspire (used 17 times)
+       4. https://w3id.org/mobilitydcat-ap/mobility-data-standard/siri (used 11 times)
+       5. https://w3id.org/mobilitydcat-ap/mobility-data-standard/tn-its (used 9 times)
+       6. https://w3id.org/mobilitydcat-ap/mobility-data-standard/gml (used 6 times)
+       7. https://w3id.org/mobilitydcat-ap/mobility-data-standard/netex (used 4 times)
+       8. https://w3id.org/mobilitydcat-ap/mobility-data-standard/c-its (used 3 times)
+       9. https://w3id.org/mobilitydcat-ap/mobility-data-standard/ocpi (used 1 times)
+
+
+  mobilithek.info:
+    format (Codelist (URI-based)):
+       1. http://publications.europa.eu/resource/authority/file-type/BIN (used 86 times)
+       2. http://publications.europa.eu/resource/authority/file-type/GML (used 12 times)
+       3. http://publications.europa.eu/resource/authority/file-type/JSON (used 4 times)
+       4. http://publications.europa.eu/resource/authority/file-type/PDF (used 3 times)
+       5. http://publications.europa.eu/resource/authority/file-type/XML (used 2 times)
+       6. http://publications.europa.eu/resource/authority/file-type/CSV (used 2 times)
+       7. http://publications.europa.eu/resource/authority/file-type/TIFF (used 2 times)
+       8. http://publications.europa.eu/resource/authority/file-type/GEOJSON (used 2 times)
+
+    mobilityDataStandard (Codelist (URI-based)):
+       1. https://mobilithek.info//offers/-4567423908948072396#mobilitydatastandard1 (used 2 times)
+       2. https://mobilithek.info//offers/-7363281535114031126#mobilitydatastandard3 (used 2 times)
+       3. https://mobilithek.info//offers/-5463996161681208509#mobilitydatastandard2 (used 2 times)
+       4. https://mobilithek.info//offers/-6055747231561505008#mobilitydatastandard3 (used 2 times)
+       5. https://mobilithek.info//offers/-7363281535114031126#mobilitydatastandard1 (used 2 times)
+       6. https://mobilithek.info//offers/-7363281535114031126#mobilitydatastandard2 (used 2 times)
+       7. https://mobilithek.info//offers/879076212433727488#mobilitydatastandard1 (used 2 times)
+       8. https://mobilithek.info//offers/-5463996161681208509#mobilitydatastandard1 (used 2 times)
+       9. https://mobilithek.info//offers/-6055747231561505008#mobilitydatastandard2 (used 2 times)
+      10. https://mobilithek.info//offers/-6055747231561505008#mobilitydatastandard9 (used 2 times)
+      ... and 66 more values
+
+
+  trafficdata.se:
+    format (Controlled vocabulary):
+       1. application/xml (used 42 times)
+       2. application/json (used 17 times)
+       3. Other (used 7 times)
+       4. text/html (used 3 times)
+       5. application/http (used 2 times)
+
+    mobilityDataStandard (Codelist (URI-based)):
+       1. https://w3id.org/mobilitydcat-ap/mobility-data-standard/other (used 14 times)
+       2. https://w3id.org/mobilitydcat-ap/mobility-data-standard/gtfs (used 2 times)
+       3. https://w3id.org/mobilitydcat-ap/mobility-data-standard/datex-II (used 1 times)
+       4. https://w3id.org/mobilitydcat-ap/mobility-data-standard/netex (used 1 times)
+
+    communicationMethod (Codelist (URI-based)):
+       1. https://w3id.org/mobilitydcat-ap/communication-method/pull (used 14 times)
+       2. http://trafficdata.se/definitions/communication_method/other (used 4 times)
+       3. https://w3id.org/mobilitydcat-ap/communication-method/push (used 1 times)
+
+
+  transportdata.be:
+    format (Codelist (URI-based)):
+       1. http://publications.europa.eu/resource/authority/file-type/JSON (used 62 times)
+       2. http://publications.europa.eu/resource/authority/file-type/MSG_HTTP (used 61 times)
+       3. http://publications.europa.eu/resource/authority/file-type/CSV (used 36 times)
+       4. http://publications.europa.eu/resource/authority/file-type/XML (used 25 times)
+       5. http://publications.europa.eu/resource/authority/file-type/PDF (used 7 times)
+       6. http://publications.europa.eu/resource/authority/file-type/HTML (used 6 times)
+       7. http://publications.europa.eu/resource/authority/file-type/GTFS (used 4 times)
+       8. http://publications.europa.eu/resource/authority/file-type/XLSX (used 3 times)
+       9. http://publications.europa.eu/resource/authority/file-type/ZIP (used 3 times)
+      10. http://publications.europa.eu/resource/authority/file-type/WMS_SRVC (used 3 times)
+      ... and 3 more values
+
+    mobilityDataStandard (Codelist (URI-based)):
+       1. https://w3id.org/mobilitydcat-ap/mobility-data-standard/other (used 165 times)
+       2. https://w3id.org/mobilitydcat-ap/mobility-data-standard/datex-II (used 24 times)
+       3. https://w3id.org/mobilitydcat-ap/mobility-data-standard/gbfs (used 13 times)
+       4. https://w3id.org/mobilitydcat-ap/mobility-data-standard/netex (used 7 times)
+       5. https://w3id.org/mobilitydcat-ap/mobility-data-standard/gtfs (used 3 times)
+       6. https://w3id.org/mobilitydcat-ap/mobility-data-standard/gtfs-rt (used 1 times)
+       7. https://w3id.org/mobilitydcat-ap/mobility-data-standard/tn-its (used 1 times)
+
+    grammar (Codelist (URI-based)):
+       1. https://w3id.org/mobilitydcat-ap/grammar/other (used 50 times)
+       2. https://w3id.org/mobilitydcat-ap/grammar/json-schema (used 19 times)
+       3. https://w3id.org/mobilitydcat-ap/grammar/xsd (used 8 times)
+       4. https://w3id.org/mobilitydcat-ap/grammar/protocol-buffers (used 3 times)
+
+    applicationLayerProtocol (Codelist (URI-based)):
+       1. https://w3id.org/mobilitydcat-ap/application-layer-protocol/http-https (used 141 times)
+       2. https://w3id.org/mobilitydcat-ap/application-layer-protocol/other (used 55 times)
+       3. https://w3id.org/mobilitydcat-ap/application-layer-protocol/soap (used 18 times)
+
+    communicationMethod (Codelist (URI-based)):
+       1. https://w3id.org/mobilitydcat-ap/communication-method/pull (used 130 times)
+       2. https://w3id.org/mobilitydcat-ap/communication-method/push (used 25 times)
