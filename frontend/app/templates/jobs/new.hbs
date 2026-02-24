@@ -1,0 +1,72 @@
+<div class="rp-page">
+  <div class="rp-hero">
+    <h1 class="rp-hero__title">MobilityDCAT-AP Validator</h1>
+    <p class="rp-hero__subtitle">
+      Validate your DCAT feed against the
+      <a href="https://mobilitydcat-ap.github.io/mobilityDCAT-AP/" target="_blank" rel="noopener">mobilityDCAT-AP specification</a>.
+      Supports Hydra collections, CKAN DCAT APIs, and LDES feeds.
+    </p>
+  </div>
+
+  <div class="rp-card rp-form-card">
+    <h2 class="rp-card__title">Enter your DCAT endpoint</h2>
+
+    <form class="rp-form" {{on "submit" (fn this.submitJob.perform)}}>
+      <div class="rp-form__group">
+        <label class="rp-label" for="endpoint-url">Endpoint URL</label>
+        <input
+          id="endpoint-url"
+          class="rp-input {{if this.validationError "rp-input--error"}}"
+          type="url"
+          placeholder="https://example.com/catalog.ttl"
+          value={{this.endpointUrl}}
+          {{on "input" this.updateUrl}}
+          required
+        />
+        {{#if this.validationError}}
+          <p class="rp-field-error">{{this.validationError}}</p>
+        {{/if}}
+        <p class="rp-hint">
+          Accepts: Turtle (.ttl), RDF/XML (.rdf), JSON-LD (.jsonld), CKAN DCAT API, Hydra collection, LDES stream
+        </p>
+      </div>
+
+      <button
+        type="submit"
+        class="rp-btn rp-btn--primary"
+        disabled={{this.submitJob.isRunning}}
+      >
+        {{#if this.submitJob.isRunning}}
+          <span class="rp-spinner"></span> Submitting…
+        {{else}}
+          Validate Feed
+        {{/if}}
+      </button>
+    </form>
+  </div>
+
+  {{#if this.recentJobs.length}}
+    <div class="rp-card rp-recent-card">
+      <h2 class="rp-card__title">Recent validations</h2>
+      <ul class="rp-job-list">
+        {{#each this.recentJobs as |job|}}
+          <li class="rp-job-item">
+            <div class="rp-job-item__url">
+              <LinkTo @route="jobs.show" @model={{job.id}}>
+                {{job.sourceUrl}}
+              </LinkTo>
+            </div>
+            <div class="rp-job-item__meta">
+              <span class="rp-status-badge" style="background:{{statusColorFor job.status}}">
+                {{job.status}}
+              </span>
+              {{#if job.endpointType}}
+                <span class="rp-type-badge">{{job.endpointType}}</span>
+              {{/if}}
+            </div>
+          </li>
+        {{/each}}
+      </ul>
+    </div>
+  {{/if}}
+</div>

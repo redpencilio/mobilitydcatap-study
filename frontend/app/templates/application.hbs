@@ -1,0 +1,28 @@
+<header class="rp-header">
+  <div class="rp-header__inner">
+    <a href="/" class="rp-header__logo">
+      <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="16" cy="16" r="16" fill="#E32119"/>
+        <text x="16" y="21" text-anchor="middle" fill="white" font-size="14" font-weight="bold" font-family="sans-serif">rp</text>
+      </svg>
+      <span class="rp-header__name">redpencil.io</span>
+    </a>
+    <nav class="rp-header__nav">
+      <LinkTo @route="jobs.new" class="rp-nav-link">Validate</LinkTo>
+    </nav>
+  </div>
+</header>
+
+<main class="rp-main">
+  {{outlet}}
+</main>
+
+<footer class="rp-footer">
+  <p>
+    MobilityDCAT-AP Validator by
+    <a href="https://redpencil.io" target="_blank" rel="noopener">redpencil.io</a>
+    &nbsp;|&nbsp;
+    Specification:
+    <a href="https://mobilitydcat-ap.github.io/mobilityDCAT-AP/" target="_blank" rel="noopener">mobilityDCAT-AP</a>
+  </p>
+</footer>

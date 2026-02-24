@@ -1,0 +1,89 @@
+<div class="rp-page rp-page--narrow">
+  <div class="rp-breadcrumb">
+    <LinkTo @route="jobs.new">← New validation</LinkTo>
+  </div>
+
+  <div class="rp-card">
+    <div class="rp-job-header">
+      <h1 class="rp-job-header__title">Validation Job</h1>
+      <span class="rp-status-badge rp-status-badge--large" style="background:{{this.statusColor}}">
+        {{this.statusLabel}}
+      </span>
+    </div>
+
+    <dl class="rp-dl">
+      <dt>Endpoint</dt>
+      <dd><a href={{this.model.sourceUrl}} target="_blank" rel="noopener">{{this.model.sourceUrl}}</a></dd>
+
+      {{#if this.model.endpointType}}
+        <dt>Detected type</dt>
+        <dd><span class="rp-type-badge">{{this.model.endpointType}}</span></dd>
+      {{/if}}
+
+      {{#if this.model.createdAt}}
+        <dt>Submitted</dt>
+        <dd>{{this.model.createdAt}}</dd>
+      {{/if}}
+
+      {{#if this.model.startedAt}}
+        <dt>Started</dt>
+        <dd>{{this.model.startedAt}}</dd>
+      {{/if}}
+
+      {{#if this.model.finishedAt}}
+        <dt>Finished</dt>
+        <dd>{{this.model.finishedAt}}</dd>
+      {{/if}}
+    </dl>
+
+    {{#if this.model.isPending}}
+      <div class="rp-status-box rp-status-box--info">
+        <span class="rp-spinner"></span>
+        <p>Job is queued. Processing will begin shortly…</p>
+      </div>
+    {{/if}}
+
+    {{#if this.model.isRunning}}
+      <div class="rp-status-box rp-status-box--info">
+        <span class="rp-spinner"></span>
+        <p>
+          Fetching and analyzing your DCAT feed. This may take a few minutes for large feeds or LDES streams.
+        </p>
+      </div>
+    {{/if}}
+
+    {{#if this.model.isCompleted}}
+      <div class="rp-status-box rp-status-box--success">
+        <p>Analysis complete! Your report is ready.</p>
+        <a
+          class="rp-btn rp-btn--primary"
+          href={{this.model.reportUrl}}
+          target="_blank"
+          rel="noopener"
+        >
+          View Report →
+        </a>
+        <p class="rp-hint" style="margin-top:0.75rem">
+          Share this URL: <code>{{this.model.reportUrl}}</code>
+        </p>
+      </div>
+    {{/if}}
+
+    {{#if this.model.isFailed}}
+      <div class="rp-status-box rp-status-box--error">
+        <p><strong>Validation failed.</strong></p>
+        {{#if this.model.errorMessage}}
+          <pre class="rp-error-msg">{{this.model.errorMessage}}</pre>
+        {{/if}}
+        <p>
+          <LinkTo @route="jobs.new">Try again with a different endpoint</LinkTo>
+        </p>
+      </div>
+    {{/if}}
+  </div>
+
+  <p class="rp-hint" style="margin-top:1rem;text-align:center">
+    Job ID: <code>{{this.model.id}}</code>
+    — This page refreshes automatically every 3 seconds.
+  </p>
+</div>

@@ -1,0 +1,5 @@
+(add-prefix "schema" "http://schema.org/")
+(add-prefix "ext"    "http://mu.semte.ch/vocabularies/ext/")
+(add-prefix "mu"     "http://mu.semte.ch/vocabularies/core/")
+(add-prefix "dct"    "http://purl.org/dc/terms/")
+(add-prefix "foaf"   "http://xmlns.com/foaf/0.1/")

@@ -1,0 +1,369 @@
+/* ============================================================
+   MobilityDCAT-AP Validator — redpencil.io branding
+   Plain CSS, no external UI framework
+   ============================================================ */
+
+:root {
+  --rp-red: #E32119;
+  --rp-red-dark: #b51a13;
+  --rp-red-light: #fdf0ef;
+  --rp-grey-50: #f8f9fa;
+  --rp-grey-100: #f0f1f2;
+  --rp-grey-200: #dee2e6;
+  --rp-grey-500: #6c757d;
+  --rp-grey-900: #212529;
+  --rp-blue: #0d6efd;
+  --rp-green: #198754;
+  --rp-orange: #fd7e14;
+  --rp-font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --rp-radius: 8px;
+  --rp-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { font-size: 16px; }
+
+body {
+  font-family: var(--rp-font);
+  color: var(--rp-grey-900);
+  background: var(--rp-grey-50);
+  line-height: 1.6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+a { color: var(--rp-red); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+code, pre {
+  font-family: "SF Mono", "Fira Code", "Fira Mono", monospace;
+  font-size: 0.875em;
+  background: var(--rp-grey-100);
+  border-radius: 4px;
+  padding: 2px 6px;
+}
+
+pre { padding: 1rem; overflow-x: auto; white-space: pre-wrap; word-break: break-all; }
+
+/* ---- Header ---- */
+.rp-header {
+  background: var(--rp-red);
+  color: #fff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.rp-header__inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0.75rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.rp-header__logo {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #fff;
+  font-weight: 700;
+  font-size: 1.05rem;
+  text-decoration: none;
+}
+
+.rp-header__logo:hover { text-decoration: none; opacity: 0.9; }
+
+.rp-header__name { letter-spacing: -0.02em; }
+
+.rp-header__nav { display: flex; gap: 1.5rem; }
+
+.rp-nav-link {
+  color: rgba(255,255,255,0.88);
+  font-weight: 500;
+  font-size: 0.9rem;
+  text-decoration: none;
+  padding: 0.25rem 0;
+  border-bottom: 2px solid transparent;
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.rp-nav-link:hover,
+.rp-nav-link.active {
+  color: #fff;
+  border-bottom-color: rgba(255,255,255,0.6);
+  text-decoration: none;
+}
+
+/* ---- Main layout ---- */
+.rp-main { flex: 1; padding: 2rem 1.5rem; }
+
+.rp-page {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.rp-page--narrow { max-width: 600px; }
+
+/* ---- Hero section ---- */
+.rp-hero {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.rp-hero__title {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--rp-grey-900);
+  margin-bottom: 0.5rem;
+}
+
+.rp-hero__subtitle {
+  color: var(--rp-grey-500);
+  font-size: 1rem;
+  max-width: 520px;
+  margin: 0 auto;
+}
+
+/* ---- Cards ---- */
+.rp-card {
+  background: #fff;
+  border-radius: var(--rp-radius);
+  box-shadow: var(--rp-shadow);
+  padding: 1.75rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid var(--rp-grey-200);
+}
+
+.rp-card__title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 2px solid var(--rp-red);
+  color: var(--rp-grey-900);
+}
+
+/* ---- Form ---- */
+.rp-form__group { margin-bottom: 1.25rem; }
+
+.rp-label {
+  display: block;
+  font-weight: 600;
+  font-size: 0.9rem;
+  margin-bottom: 0.4rem;
+  color: var(--rp-grey-900);
+}
+
+.rp-input {
+  width: 100%;
+  padding: 0.6rem 0.875rem;
+  border: 1.5px solid var(--rp-grey-200);
+  border-radius: 6px;
+  font-size: 0.95rem;
+  font-family: var(--rp-font);
+  background: #fff;
+  transition: border-color 0.15s, box-shadow 0.15s;
+  outline: none;
+}
+
+.rp-input:focus {
+  border-color: var(--rp-red);
+  box-shadow: 0 0 0 3px rgba(227,33,25,0.12);
+}
+
+.rp-input--error { border-color: #dc3545; }
+.rp-input--error:focus { box-shadow: 0 0 0 3px rgba(220,53,69,0.15); }
+
+.rp-field-error {
+  color: #dc3545;
+  font-size: 0.85rem;
+  margin-top: 0.3rem;
+}
+
+.rp-hint {
+  color: var(--rp-grey-500);
+  font-size: 0.82rem;
+  margin-top: 0.35rem;
+}
+
+/* ---- Buttons ---- */
+.rp-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.6rem 1.5rem;
+  border-radius: 6px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  text-decoration: none;
+  transition: background 0.15s, transform 0.1s;
+}
+
+.rp-btn:hover { text-decoration: none; }
+.rp-btn:active { transform: scale(0.98); }
+
+.rp-btn--primary {
+  background: var(--rp-red);
+  color: #fff;
+}
+
+.rp-btn--primary:hover { background: var(--rp-red-dark); }
+.rp-btn--primary:disabled {
+  background: var(--rp-grey-500);
+  cursor: not-allowed;
+}
+
+/* ---- Spinner ---- */
+.rp-spinner {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border: 2px solid rgba(255,255,255,0.4);
+  border-top-color: #fff;
+  border-radius: 50%;
+  animation: rp-spin 0.7s linear infinite;
+}
+
+@keyframes rp-spin { to { transform: rotate(360deg); } }
+
+/* ---- Job list ---- */
+.rp-job-list { list-style: none; display: flex; flex-direction: column; gap: 0.5rem; }
+
+.rp-job-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.6rem 0.75rem;
+  border-radius: 6px;
+  background: var(--rp-grey-50);
+  border: 1px solid var(--rp-grey-200);
+}
+
+.rp-job-item__url {
+  flex: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 0.88rem;
+}
+
+.rp-job-item__meta { display: flex; align-items: center; gap: 0.5rem; flex-shrink: 0; }
+
+/* ---- Status badge ---- */
+.rp-status-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 20px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.rp-status-badge--large {
+  padding: 4px 14px;
+  font-size: 0.88rem;
+}
+
+.rp-type-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  background: var(--rp-grey-100);
+  color: var(--rp-grey-500);
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+/* ---- Job detail header ---- */
+.rp-job-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 2px solid var(--rp-red);
+}
+
+.rp-job-header__title { font-size: 1.1rem; font-weight: 600; }
+
+/* ---- Definition list ---- */
+.rp-dl { display: grid; grid-template-columns: 140px 1fr; gap: 0.4rem 1rem; font-size: 0.9rem; margin-bottom: 1.25rem; }
+.rp-dl dt { font-weight: 600; color: var(--rp-grey-500); }
+.rp-dl dd { word-break: break-all; }
+
+/* ---- Status boxes ---- */
+.rp-status-box {
+  border-radius: 6px;
+  padding: 1.25rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.rp-status-box--info {
+  background: #e8f0fe;
+  border: 1px solid #b8d0fc;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 0.75rem;
+}
+
+.rp-status-box--info .rp-spinner {
+  border-color: rgba(13,110,253,0.3);
+  border-top-color: var(--rp-blue);
+  flex-shrink: 0;
+  margin-top: 3px;
+}
+
+.rp-status-box--success {
+  background: #d1e7dd;
+  border: 1px solid #a3cfbb;
+}
+
+.rp-status-box--error {
+  background: #f8d7da;
+  border: 1px solid #f1aeb5;
+}
+
+.rp-error-msg {
+  background: rgba(255,255,255,0.6);
+  border: 1px solid rgba(0,0,0,0.1);
+  border-radius: 4px;
+  font-size: 0.82rem;
+}
+
+/* ---- Breadcrumb ---- */
+.rp-breadcrumb {
+  margin-bottom: 1rem;
+  font-size: 0.88rem;
+}
+
+/* ---- Footer ---- */
+.rp-footer {
+  background: #fff;
+  border-top: 1px solid var(--rp-grey-200);
+  padding: 1rem 1.5rem;
+  text-align: center;
+  font-size: 0.82rem;
+  color: var(--rp-grey-500);
+}
+
+/* ---- Responsive ---- */
+@media (max-width: 480px) {
+  .rp-hero__title { font-size: 1.4rem; }
+  .rp-card { padding: 1.25rem; }
+  .rp-dl { grid-template-columns: 1fr; }
+  .rp-dl dt { margin-bottom: -0.2rem; }
+  .rp-dl dd { margin-bottom: 0.5rem; }
+}
